@@ -43,6 +43,10 @@ A historical 4X where you rule a **wizard nation**. In the Dark Ages, a hole tor
 - Used to **cast spells** in game.
 - Some **units require Mana** to build.
 
+### Spells
+- **Summon Storm:** summon a natural disaster (a storm) that damages anything within it.
+  - Open: does it drift? Can it hurt your own side? Can rivals tell it was you? Does it leave anything behind?
+
 ### The Veil
 - The Veil is **separate from Mana** — a whole-world mechanic, not a spendable resource.
 - Icon idea: four-pointed star.
