@@ -51,7 +51,18 @@ A historical 4X where you rule a **wizard nation**. In the Dark Ages, a hole tor
 ### Cults
 - Over the course of the game, you can **join different cults** for bonuses and other benefits.
 - Inspired by Civ VI Secret Societies and governors.
-- Open: one cult at a time or several? Permanent, or switchable (e.g., at era changes)? Are cults joined as a nation, or are they people you place, like governors?
+- **Both layers:**
+  - **Nation level:** your nation follows a cult, and can **switch to a new one each era** (ties into era switching).
+  - **People level:** individual **cult members are placed in cities like governors** (e.g., a necromancer, an augur, a stormcaller).
+- Open: how do the two layers interact? (E.g., does your nation's cult decide which members you can recruit? Can you hire members of other cults, at a cost or risk?)
+- Idea on the table: cults as the **organization of magic** itself — each cult a school with its own spells.
+
+### Alchemy
+- Discovering **alchemy** lets you **convert resources into other resources**.
+
+### Blood Pacts
+- **Blood pacts** can be added to **diplomatic agreements** for extra-powerful bonuses.
+- Open: what happens if you break one?
 
 ### The Veil
 - The Veil is **separate from Mana** — a whole-world mechanic, not a spendable resource.
