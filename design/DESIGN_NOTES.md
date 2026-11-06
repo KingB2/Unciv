@@ -41,7 +41,8 @@ A historical 4X where you rule a **wizard nation**. In the Dark Ages, a hole tor
 - Leaders are **immortal (or near-immortal) wizards** who rule for the whole game.
 - Like **Civ III**, leaders **look different every era** (new portrait/outfit per era).
 - **Any leader can be picked**, regardless of when they lived historically.
-- Open: is each leader tied to one civ, or can any leader lead any civ?
+- **Any leader can lead any civ.** Two levels of customization at the start (leader + civ), plus a big shifting one through the game (cults).
+- **Leaders have unique spells**, in addition to the spells you research.
 - Art note: 5 eras means up to 5 looks per leader.
 
 ### Civs don't transition; cults do
@@ -74,7 +75,9 @@ A historical 4X where you rule a **wizard nation**. In the Dark Ages, a hole tor
   - Era 4: Masons, Golden Dawn, Vampires (Gothic)
   - Era 5: Cthulhu cultists
   - Timeless: Headhunters
-- Open: are cults locked to their era, or available anytime but strongest in their home era?
+- **Cults are locked to their eras.**
+- **Cults aren't exclusive:** several players can follow the same cult (how many may depend on the number of players).
+- Open: what does sharing a cult mean between players? Allies, rivals, or both?
 - Watch: roster is mostly European so far; a worldwide set of civs will want cults from other traditions too.
 
 ### Crafting (Alchemy)
