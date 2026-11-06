@@ -37,8 +37,9 @@ A historical 4X where you rule a **wizard nation**. In the Dark Ages, a hole tor
 - **Global and timeless**, like Civ.
 - **The rule:** a real (or plausibly real) person with myth or magic attached. Not entirely fictional, not entirely ordinary.
 - Careful: avoid founders and prophets of living religions; saints are a judgment call.
-- **Decided:** Merlin (or Lailoken), Charlemagne, Dante, Qin Shi Huang, Joan of Arc, Vlad III Dracula, Sundiata Keita.
-- **Need more women leaders.** Candidates: Dihya (al-Kahina), Seondeok of Silla, Himiko, Catherine de' Medici, Mary the Jewess, Olga of Kiev, Elizabeth Báthory, Nzinga of Ndongo, Hildegard of Bingen.
+- **Decided:** Merlin (or Lailoken), Charlemagne, Dante, Qin Shi Huang, Joan of Arc, Vlad III Dracula, Sundiata Keita, Harry Houdini, Dihya (al-Kahina), Timur.
+- **Need more women leaders.** Candidates: Seondeok of Silla, Himiko, Catherine de' Medici, Mary the Jewess, Olga of Kiev, Elizabeth Báthory, Nzinga of Ndongo, Hildegard of Bingen.
+- **Maybe, handle with care:** Marie Laveau (revered in Louisiana Voodoo, a living religion; avoid the 'sinister Voodoo' trope; ideally get a reader from that tradition).
 - **On the fence:** Tenskwatawa, Wovoka (religious prophets of Indigenous movements still meaningful to living communities; would want consultation before including). Timothy Leary (recent; estate likely controls commercial use of his name and likeness).
 - **Candidate pool (not decided):**
   - Europe: Virgil (medieval legend made him a sorcerer), Gerbert of Aurillac / Pope Sylvester II, Michael Scot, Albertus Magnus, Roger Bacon, Nicolas Flamel, Paracelsus, Johann Faust, John Dee, Nostradamus, Comte de Saint-Germain, Cagliostro, Rasputin, Vlad III, Elizabeth Báthory, Vseslav of Polotsk, Owain Glyndŵr, Joan of Arc, Hildegard of Bingen, Taliesin
