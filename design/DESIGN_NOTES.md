@@ -34,8 +34,17 @@ A historical 4X where you rule a **wizard nation**. In the Dark Ages, a hole tor
 
 ### Leaders
 - Leaders are historical and legendary figures who were (in this world, actually) magicians.
-- **Merlin (or Lailoken)** must be pickable.
-- Candidate pool to research: Taliesin, Michael Scot, Albertus Magnus, Roger Bacon, Nicolas Flamel, Paracelsus, John Dee, Abe no Seimei, Zhang Daoling, Hildegard of Bingen, Rasputin…
+- **Global and timeless**, like Civ.
+- **The rule:** a real (or plausibly real) person with myth or magic attached. Not entirely fictional, not entirely ordinary.
+- Careful: avoid founders and prophets of living religions; saints are a judgment call.
+- **Decided:** Merlin (or Lailoken), Charlemagne, Dante.
+- **Candidate pool (not decided):**
+  - Europe: Virgil (medieval legend made him a sorcerer), Gerbert of Aurillac / Pope Sylvester II, Michael Scot, Albertus Magnus, Roger Bacon, Nicolas Flamel, Paracelsus, Johann Faust, John Dee, Nostradamus, Comte de Saint-Germain, Cagliostro, Rasputin, Vlad III, Elizabeth Báthory, Vseslav of Polotsk, Owain Glyndŵr, Joan of Arc, Hildegard of Bingen, Taliesin
+  - Middle East / Central Asia: Harun al-Rashid, Jabir ibn Hayyan, Ahmad al-Buni, Timur
+  - Africa: Sundiata Keita, Soumaoro Kanté, Nzinga of Ndongo
+  - East Asia: Abe no Seimei, En no Gyōja, Qin Shi Huang, Ge Hong, Zhang Guolao, Choe Chiwon
+  - South Asia: Vikramaditya
+  - Americas: Nezahualcoyotl, Pachacuti, Moctezuma II
 
 ### Leaders are immortal wizards
 - Leaders are **immortal (or near-immortal) wizards** who rule for the whole game.
