@@ -134,7 +134,10 @@ A historical 4X where you rule a **wizard nation**. In the Dark Ages, a hole tor
 ---
 
 ## Technical Notes
-- Plan: use **Unciv** (open source, MPL 2.0) as the engine template, reshaped into its own game.
-- This fork is from ~late 2021 — **update to current Unciv** before building.
+- **Engine: Godot. Fresh start** — not built on Unciv.
+  - Why: the design has grown beyond Civ's shape, the graphics in the designer's head need a whole new rig, Godot's text-based project files suit AI-assisted building, and it's free and open source with a growing pool of human developers.
+- **A human developer will review the code before any release.** No all-vibe-coded release.
+- Release path (a ladder): private build → friends playtest → free demo on itch.io → Steam Early Access and/or Google Play. Android + PC first; iPhone later if ever.
+- Disclose AI coding help per store rules at the time; all art and music are human-made.
 - Mobile: keep map size, faction count, and per-turn simulation in check. Lots of content is fine.
 - All art and music is made by the designer. **No AI-generated art.**
