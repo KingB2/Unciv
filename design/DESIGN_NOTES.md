@@ -46,6 +46,12 @@ A historical 4X where you rule a **wizard nation**. In the Dark Ages, a hole tor
 ### Spells
 - **Summon Storm:** summon a natural disaster (a storm) that damages anything within it.
   - Open: does it drift? Can it hurt your own side? Can rivals tell it was you? Does it leave anything behind?
+- **Principle: spells change with context.** How a spell behaves depends on who you're playing, the era, and your techs and civics. (E.g., an early storm might be wild; later techs or civics could let you steer or disguise it.)
+
+### Cults
+- Over the course of the game, you can **join different cults** for bonuses and other benefits.
+- Inspired by Civ VI Secret Societies and governors.
+- Open: one cult at a time or several? Permanent, or switchable (e.g., at era changes)? Are cults joined as a nation, or are they people you place, like governors?
 
 ### The Veil
 - The Veil is **separate from Mana** — a whole-world mechanic, not a spendable resource.
