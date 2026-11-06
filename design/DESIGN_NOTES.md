@@ -57,8 +57,13 @@ A historical 4X where you rule a **wizard nation**. In the Dark Ages, a hole tor
 - Open: how do the two layers interact? (E.g., does your nation's cult decide which members you can recruit? Can you hire members of other cults, at a cost or risk?)
 - Idea on the table: cults as the **organization of magic** itself — each cult a school with its own spells.
 
-### Alchemy
-- Discovering **alchemy** lets you **convert resources into other resources**.
+### Crafting (Alchemy)
+- **Alchemy is part of a larger crafting system.**
+- Discovering alchemy lets you **convert resources into other resources**.
+- **Relics and great works can be crafted** by exchanging resources for them.
+- Crafted items are **magic, so they carry big bonuses**.
+- Open: where do rare ingredients come from? Are recipes known, or discovered?
+- Idea on the table: rare ingredients come from dangerous or special places (thin places, incursions, fae city-states), tying crafting to exploration, trade and diplomacy.
 
 ### Blood Pacts
 - **Blood pacts** can be added to **diplomatic agreements** for extra-powerful bonuses.
