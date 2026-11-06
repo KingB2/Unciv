@@ -69,7 +69,12 @@ A historical 4X where you rule a **wizard nation**. In the Dark Ages, a hole tor
 - Instead of only building scouts, you can build an **adventurer** (inspired by Age of Empires).
 - On death, the adventurer **returns to your capital after a cooldown**.
 - The adventurer is the one who can **negotiate and collect** (e.g., rare crafting ingredients, deals).
-- Open: one per player, or more later? Do they level up? Does dying cost anything (e.g., losing what they carried)? Do they change with the eras?
+- Adventurers **level up** and **change with the eras**, possibly as a player choice (e.g., keep a veteran vs. retrain into the new era's form).
+- **Great People work this way:** Great People are adventurers.
+- **Multiple types:** e.g., explorer, warrior, scholar.
+- **Civ-unique adventurers:** e.g., **Paladins for the Franks**.
+- Open: how many can you have at once? Does dying cost anything (e.g., losing what they carried)?
+- Watch: lots of heroes = lots to control on a phone, and lots to draw. Probably cap how many are active.
 
 ### Blood Pacts
 - **Blood pacts** can be added to **diplomatic agreements** for extra-powerful bonuses.
