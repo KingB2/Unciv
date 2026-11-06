@@ -65,6 +65,12 @@ A historical 4X where you rule a **wizard nation**. In the Dark Ages, a hole tor
 - Open: where do rare ingredients come from? Are recipes known, or discovered?
 - Idea on the table: rare ingredients come from dangerous or special places (thin places, incursions, fae city-states), tying crafting to exploration, trade and diplomacy.
 
+### The Adventurer
+- Instead of only building scouts, you can build an **adventurer** (inspired by Age of Empires).
+- On death, the adventurer **returns to your capital after a cooldown**.
+- The adventurer is the one who can **negotiate and collect** (e.g., rare crafting ingredients, deals).
+- Open: one per player, or more later? Do they level up? Does dying cost anything (e.g., losing what they carried)? Do they change with the eras?
+
 ### Blood Pacts
 - **Blood pacts** can be added to **diplomatic agreements** for extra-powerful bonuses.
 - Open: what happens if you break one?
