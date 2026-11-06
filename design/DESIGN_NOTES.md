@@ -37,6 +37,16 @@ A historical 4X where you rule a **wizard nation**. In the Dark Ages, a hole tor
 - **Merlin (or Lailoken)** must be pickable.
 - Candidate pool to research: Taliesin, Michael Scot, Albertus Magnus, Roger Bacon, Nicolas Flamel, Paracelsus, John Dee, Abe no Seimei, Zhang Daoling, Hildegard of Bingen, Rasputin…
 
+### Leaders are immortal wizards
+- Leaders are **immortal (or near-immortal) wizards** who rule for the whole game.
+- Like **Civ III**, leaders **look different every era** (new portrait/outfit per era).
+- **Any leader can be picked**, regardless of when they lived historically.
+- Open: is each leader tied to one civ, or can any leader lead any civ?
+- Art note: 5 eras means up to 5 looks per leader.
+
+### Civs don't transition; cults do
+- **Civs stay the same all game.** The era-to-era transformation comes from **cults**: each era, your nation can take up a new cult.
+
 ### Resource: Mana
 - **One magic resource: Mana.**
 - **Icon: a burning skull.**
@@ -56,6 +66,16 @@ A historical 4X where you rule a **wizard nation**. In the Dark Ages, a hole tor
   - **People level:** individual **cult members are placed in cities like governors** (e.g., a necromancer, an augur, a stormcaller).
 - Open: how do the two layers interact? (E.g., does your nation's cult decide which members you can recruit? Can you hire members of other cults, at a cost or risk?)
 - Idea on the table: cults as the **organization of magic** itself — each cult a school with its own spells.
+- **Cult roster (first pass, what they do TBD):** Druids, Vampires, Templars, Headhunters, Cthulhu cultists, the Golden Dawn, the Masons, the Rosicrucians, Plague Doctors, and more.
+- Possible era fit (historical "home" era, not decided):
+  - Era 1: Druids
+  - Era 2: Templars, Plague Doctors (Black Death)
+  - Era 3: Rosicrucians
+  - Era 4: Masons, Golden Dawn, Vampires (Gothic)
+  - Era 5: Cthulhu cultists
+  - Timeless: Headhunters
+- Open: are cults locked to their era, or available anytime but strongest in their home era?
+- Watch: roster is mostly European so far; a worldwide set of civs will want cults from other traditions too.
 
 ### Crafting (Alchemy)
 - **Alchemy is part of a larger crafting system.**
