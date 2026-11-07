@@ -47,17 +47,14 @@ A historical 4X where you rule a **wizard nation**. In the Dark Ages, a hole tor
 - Jeanne d'Arc
 - Vlad Dracula
 - Ursula Southeil (Mother Shipton)
-- Grigori Rasputin
 - Sundiata Keita: prophesied at birth; his epic is a war against the sorcerer-king Soumaoro Kanté.
 - Jabir ibn Hayyan
-- Maria Prophetissa (Mary the Jewess): note, lived ~1st–3rd century, before the Breach. Exception or replace?
 - Kublai Khan
 - Abe no Seimei
 - Seondeok of Silla
 - Manco Cápac
 - Marie Laveau: handle with care. Revered in Louisiana Voodoo, a living religion; avoid the "sinister Voodoo" trope; ideally get a reader from that tradition.
 - Harry Houdini
-- Kamehameha I: care. Deeply honored in living Hawaiian culture; ideally a Native Hawaiian reader checks his portrayal.
 
 **Considering**
 - William Shakespeare, Alexander I of Russia, Cagliostro, Bhoja of Malwa (South Asia)
@@ -71,7 +68,7 @@ A historical 4X where you rule a **wizard nation**. In the Dark Ages, a hole tor
 - Timothy Leary: recent; his estate likely controls commercial use of his name and likeness.
 
 **Cut**
-- John Dee (replaced by Mother Shipton), Vikramaditya (too early), Timur (replaced by Kublai Khan), Prester John (too fictional), He Xiangu, Faust, Topiltzin Quetzalcoatl (trimming men / thin records), Dihya (al-Kahina) (thin magic sourcing), Dante Alighieri, Qin Shi Huang (before the Breach; replaced by Abe no Seimei)
+- John Dee (replaced by Mother Shipton), Vikramaditya (too early), Timur (replaced by Kublai Khan), Prester John (too fictional), He Xiangu, Faust, Topiltzin Quetzalcoatl (trimming men / thin records), Dihya (al-Kahina) (thin magic sourcing), Dante Alighieri, Qin Shi Huang (before the Breach; replaced by Abe no Seimei), Grigori Rasputin, Maria Prophetissa (before the Breach), Kamehameha I
 
 ### Leaders are immortal wizards
 - Leaders are **immortal (or near-immortal) wizards** who rule for the whole game.
