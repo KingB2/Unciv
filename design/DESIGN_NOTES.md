@@ -48,26 +48,22 @@ A historical 4X where you rule a **wizard nation**. In the Dark Ages, a hole tor
 - Vlad Dracula
 - Ursula Southeil (Mother Shipton)
 - Grigori Rasputin
-- Sundiata Keita
-- Dihya (al-Kahina)
+- Sundiata Keita: prophesied at birth; his epic is a war against the sorcerer-king Soumaoro Kanté.
+- Dihya (al-Kahina): "al-Kahina" = "the priestess/soothsayer," a name given by Arab chroniclers (her enemies). Prophecy story: she foresaw her defeat and sent her sons over to the Arab side (reported by Ibn Khaldun, as best I know; verify).
 - Jabir ibn Hayyan
+- Maria Prophetissa (Mary the Jewess)
 - Kublai Khan
 - Qin Shi Huang
-- He Xiangu (under review; may be too fictional): passes at about Merlin's level (no solid record, but a long local tradition tied to Zengcheng, Guangdong)
 - Seondeok of Silla
 - Manco Cápac
 - Marie Laveau: handle with care. Revered in Louisiana Voodoo, a living religion; avoid the "sinister Voodoo" trope; ideally get a reader from that tradition.
 - Harry Houdini
 - Kamehameha I: care. Deeply honored in living Hawaiian culture; ideally a Native Hawaiian reader checks his portrayal.
 
-**Decided, details open**
-- **Faust:** Johann Georg Faust (styled himself "Georgius Sabellicus Faustus junior"). Or swap for Pan Twardowski, the Polish Faust?
-- **Topiltzin Quetzalcoatl:** shorten to "Topiltzin", or replace with K'inich Janaab' Pakal (Pakal the Great of Palenque) or Spearthrower Owl of Teotihuacan.
-
 **Considering**
 - William Shakespeare, Alexander I of Russia, Cagliostro, Bhoja of Malwa (South Asia)
 - Other Taoist Immortals: Lü Dongbin, Zhang Guolao (best documented: a biography in the official Tang histories), and/or the Eight Immortals as a cult. Care: still venerated in Taoist folk religion.
-- More women: Himiko, Catherine de' Medici, Mary the Jewess, Olga of Kiev, Elizabeth Báthory, Nzinga of Ndongo, Hildegard of Bingen, Semiramis
+- More women: Nzinga of Ndongo, Himiko, Catherine de' Medici, Olga of Kiev, Elizabeth Báthory, Hildegard of Bingen, Semiramis
 - Merlin-types: Thomas the Rhymer, Taliesin, Nicolas Flamel, Rabbi Loew (the Golem of Prague), Gilgamesh, the Pied Piper of Hamelin, King Arthur, Pope Joan (may be fully fictional)
 - Others from earlier lists: Virgil, Gerbert of Aurillac, Michael Scot, Albertus Magnus, Roger Bacon, Paracelsus, Nostradamus, Comte de Saint-Germain, Vseslav of Polotsk, Owain Glyndŵr, Harun al-Rashid, Ahmad al-Buni, Soumaoro Kanté, Abe no Seimei, En no Gyōja, Ge Hong, Choe Chiwon, Nezahualcoyotl, Pachacuti, Moctezuma II
 
@@ -76,7 +72,7 @@ A historical 4X where you rule a **wizard nation**. In the Dark Ages, a hole tor
 - Timothy Leary: recent; his estate likely controls commercial use of his name and likeness.
 
 **Cut**
-- John Dee (replaced by Mother Shipton), Vikramaditya (too early), Timur (replaced by Kublai Khan), Prester John (too fictional)
+- John Dee (replaced by Mother Shipton), Vikramaditya (too early), Timur (replaced by Kublai Khan), Prester John (too fictional), He Xiangu, Faust, Topiltzin Quetzalcoatl (trimming men / thin records)
 
 ### Leaders are immortal wizards
 - Leaders are **immortal (or near-immortal) wizards** who rule for the whole game.
