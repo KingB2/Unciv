@@ -40,31 +40,32 @@ A historical 4X where you rule a **wizard nation**. In the Dark Ages, a hole tor
   2. **Legend grown from reality ("the Merlin Protocol"):** a literary invention built on a probably-real seed (Myrddin Wyllt).
 - Careful: avoid founders and prophets of living religions; saints are a judgment call.
 
-**Decided**
+**Decided** (roster more or less final, except for adding women)
 - Myrddin Wyllt (Merlin)
 - Charlemagne
 - Dante Alighieri
 - Jeanne d'Arc
 - Vlad Dracula
 - Ursula Southeil (Mother Shipton)
+- Grigori Rasputin
 - Sundiata Keita
 - Dihya (al-Kahina)
 - Jabir ibn Hayyan
-- Timur
+- Kublai Khan
 - Qin Shi Huang
-- He Xiangu: passes at about Merlin's level (no solid record, but a long local tradition tied to Zengcheng, Guangdong)
+- He Xiangu (under review; may be too fictional): passes at about Merlin's level (no solid record, but a long local tradition tied to Zengcheng, Guangdong)
 - Seondeok of Silla
 - Manco Cápac
 - Marie Laveau: handle with care. Revered in Louisiana Voodoo, a living religion; avoid the "sinister Voodoo" trope; ideally get a reader from that tradition.
 - Harry Houdini
+- Kamehameha I: care. Deeply honored in living Hawaiian culture; ideally a Native Hawaiian reader checks his portrayal.
 
 **Decided, details open**
 - **Faust:** Johann Georg Faust (styled himself "Georgius Sabellicus Faustus junior"). Or swap for Pan Twardowski, the Polish Faust?
-- **Prester John:** a legend that attached to different real rulers over time (Yelü Dashi of Qara Khitai → Toghrul/Wang Khan of the Keraites → the emperors of Ethiopia). Keep "Prester John" with a different face each era, or use a real Ethiopian emperor such as Zara Yaqob.
 - **Topiltzin Quetzalcoatl:** shorten to "Topiltzin", or replace with K'inich Janaab' Pakal (Pakal the Great of Palenque) or Spearthrower Owl of Teotihuacan.
 
 **Considering**
-- Kamehameha I, William Shakespeare, Grigori Rasputin, Alexander I of Russia, Kublai Khan, Cagliostro, Bhoja of Malwa (South Asia)
+- William Shakespeare, Alexander I of Russia, Cagliostro, Bhoja of Malwa (South Asia)
 - Other Taoist Immortals: Lü Dongbin, Zhang Guolao (best documented: a biography in the official Tang histories), and/or the Eight Immortals as a cult. Care: still venerated in Taoist folk religion.
 - More women: Himiko, Catherine de' Medici, Mary the Jewess, Olga of Kiev, Elizabeth Báthory, Nzinga of Ndongo, Hildegard of Bingen, Semiramis
 - Merlin-types: Thomas the Rhymer, Taliesin, Nicolas Flamel, Rabbi Loew (the Golem of Prague), Gilgamesh, the Pied Piper of Hamelin, King Arthur, Pope Joan (may be fully fictional)
@@ -75,7 +76,7 @@ A historical 4X where you rule a **wizard nation**. In the Dark Ages, a hole tor
 - Timothy Leary: recent; his estate likely controls commercial use of his name and likeness.
 
 **Cut**
-- John Dee (replaced by Mother Shipton), Vikramaditya (too early)
+- John Dee (replaced by Mother Shipton), Vikramaditya (too early), Timur (replaced by Kublai Khan), Prester John (too fictional)
 
 ### Leaders are immortal wizards
 - Leaders are **immortal (or near-immortal) wizards** who rule for the whole game.
