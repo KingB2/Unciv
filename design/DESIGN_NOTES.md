@@ -40,7 +40,8 @@ A historical 4X where you rule a **wizard nation**. In the Dark Ages, a hole tor
   2. **Legend grown from reality:** a literary invention built on a probably-real seed (Merlin).
 - **"Merlin-type" candidates (legend from a real seed, not decided):** Thomas the Rhymer, Taliesin, Faust, Nicolas Flamel, Rabbi Loew (the Golem of Prague), Prester John, Mother Shipton, Semiramis, Gilgamesh, Topiltzin Quetzalcoatl, the Pied Piper of Hamelin, Pope Joan, King Arthur
 - Careful: avoid founders and prophets of living religions; saints are a judgment call.
-- **Decided:** Merlin (or Lailoken), Charlemagne, Dante, Qin Shi Huang, Joan of Arc, Vlad III Dracula, Sundiata Keita, Harry Houdini, Dihya (al-Kahina), Timur, Manco Cápac, Prester John, Topiltzin Quetzalcoatl, Marie Laveau (handle with care: see below).
+- **Decided:** Merlin (or Lailoken), Charlemagne, Dante, Qin Shi Huang, Joan of Arc, Vlad III Dracula, Sundiata Keita, Harry Houdini, Dihya (al-Kahina), Timur, Manco Cápac, Prester John, Topiltzin Quetzalcoatl, Marie Laveau (handle with care: see below), Johann Faust.
+- **Taoist Immortals (under consideration):** Lü Dongbin as a leader (possibly real Tang scholar), He Xiangu as a possible woman leader, and/or the Eight Immortals as a cult. Care: they're still venerated in Taoist folk religion.
 - **Need more women leaders.** Candidates: Seondeok of Silla, Himiko, Catherine de' Medici, Mary the Jewess, Olga of Kiev, Elizabeth Báthory, Nzinga of Ndongo, Hildegard of Bingen.
 - **Handle with care:** Marie Laveau (revered in Louisiana Voodoo, a living religion; avoid the 'sinister Voodoo' trope; ideally get a reader from that tradition).
 - **On the fence:** Tenskwatawa, Wovoka (religious prophets of Indigenous movements still meaningful to living communities; would want consultation before including). Timothy Leary (recent; estate likely controls commercial use of his name and likeness).
@@ -68,6 +69,10 @@ A historical 4X where you rule a **wizard nation**. In the Dark Ages, a hole tor
 - **Icon: a burning skull.**
 - Used to **cast spells** in game.
 - Some **units require Mana** to build.
+
+### Mythology
+- **Mythology is the non-player layer.** Fully mythic figures (gods, monsters, folk spirits) aren't leaders; they're city-states, incursion threats, wonders and cult patrons.
+- Care with gods of living religions.
 
 ### Spells
 - **Summon Storm:** summon a natural disaster (a storm) that damages anything within it.
@@ -159,7 +164,7 @@ A historical 4X where you rule a **wizard nation**. In the Dark Ages, a hole tor
 ---
 
 ## Ideas on the Table (proposed, NOT decided)
-- **Mythology (designer unsure if/how it fits):** fully mythic figures (gods, monsters, folk spirits) can't be leaders under the leader rule, but could be the world's non-player layer: city-states, incursion threats, wonders, cult patrons. Possible lore: the Veil was always thin enough to leak, which inspired the old myths, and the Breach made them real; or the beings from beyond wear the masks of human stories. Care with gods of living religions.
+- **Mythology lore (open):** possible lore: the Veil was always thin enough to leak, which inspired the old myths, and the Breach made them real; or the beings from beyond wear the masks of human stories. Care with gods of living religions.
 - **Thin places:** spots on the map where the Veil is cracked; Mana is harvested there. Powerful but risky to build near.
 - **Veil as shared world health:** spending magic thins it; low Veil → more disasters ("Breach surges") and incursions (zombie-mode analogue). *Designer not sold.*
 - **Religion as "what is the Breach?":** each faith answers that question (heaven, hell, Faerie, a wound…) and so sets how its people treat magic.
