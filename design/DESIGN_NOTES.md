@@ -36,30 +36,46 @@ A historical 4X where you rule a **wizard nation**. In the Dark Ages, a hole tor
 - Leaders are historical and legendary figures who were (in this world, actually) magicians.
 - **Global and timeless**, like Civ.
 - **The rule:** not entirely fictional, not entirely ordinary. Two kinds qualify:
-  1. **Reality grown into legend:** a real person with myth or magic attached (Charlemagne, Joan, Vlad, Houdini).
-  2. **Legend grown from reality:** a literary invention built on a probably-real seed (Merlin).
-- **"Merlin-type" candidates (legend from a real seed, not decided):** Thomas the Rhymer, Taliesin, Faust, Nicolas Flamel, Rabbi Loew (the Golem of Prague), Prester John, Semiramis, Gilgamesh, Topiltzin Quetzalcoatl, the Pied Piper of Hamelin, Pope Joan, King Arthur
+  1. **Reality grown into legend:** a real person with myth or magic attached (Charlemagne, Jeanne d'Arc, Vlad Dracula, Houdini).
+  2. **Legend grown from reality ("the Merlin Protocol"):** a literary invention built on a probably-real seed (Myrddin Wyllt).
 - Careful: avoid founders and prophets of living religions; saints are a judgment call.
-- **Decided (names cleaned up):** Myrddin Wyllt (Merlin), Charlemagne, Dante Alighieri, Qin Shi Huang, Jeanne d'Arc, Vlad Dracula, Sundiata Keita, Harry Houdini, Dihya (al-Kahina), Timur, Manco Cápac, Marie Laveau (handle with care: see below), He Xiangu, Ursula Southeil (Mother Shipton), Jabir ibn Hayyan, Seondeok of Silla.
-- **Decided, details open:**
-  - **Faust:** Johann Georg Faust (styled himself "Georgius Sabellicus Faustus junior"). Or swap for Pan Twardowski, the Polish Faust?
-  - **Prester John:** a legend that attached to different real rulers over time (Yelü Dashi of Qara Khitai → Toghrul/Wang Khan of the Keraites → the emperors of Ethiopia). Either keep "Prester John" with a different face each era, or use a real Ethiopian emperor such as Zara Yaqob.
-  - **Topiltzin Quetzalcoatl:** shorten to "Topiltzin", or replace with K'inich Janaab' Pakal (Pakal the Great of Palenque) or Spearthrower Owl of Teotihuacan.
-- **Considering:** Kamehameha I, William Shakespeare, Grigori Rasputin, Alexander I of Russia, Kublai Khan, Cagliostro, Bhoja of Malwa (for South Asia).
-- **Dropped:** Vikramaditya (too early).
-- **Cut:** John Dee (replaced by Mother Shipton).
-  - He Xiangu passes at about Merlin's level: no solid historical record, but a long local tradition (Zengcheng, Guangdong) tied to a real place and era.
-- **Other Taoist Immortals (under consideration):** Lü Dongbin, Zhang Guolao (best-documented: has a biography in the official Tang histories), and/or the Eight Immortals as a cult. Care: they're still venerated in Taoist folk religion.
-- **Need more women leaders.** Candidates: Seondeok of Silla, Himiko, Catherine de' Medici, Mary the Jewess, Olga of Kiev, Elizabeth Báthory, Nzinga of Ndongo, Hildegard of Bingen.
-- **Handle with care:** Marie Laveau (revered in Louisiana Voodoo, a living religion; avoid the 'sinister Voodoo' trope; ideally get a reader from that tradition).
-- **On the fence:** Tenskwatawa, Wovoka (religious prophets of Indigenous movements still meaningful to living communities; would want consultation before including). Timothy Leary (recent; estate likely controls commercial use of his name and likeness).
-- **Candidate pool (not decided):**
-  - Europe: Virgil (medieval legend made him a sorcerer), Gerbert of Aurillac / Pope Sylvester II, Michael Scot, Albertus Magnus, Roger Bacon, Nicolas Flamel, Paracelsus, Johann Faust, Nostradamus, Comte de Saint-Germain, Cagliostro, Rasputin, Vlad III, Elizabeth Báthory, Vseslav of Polotsk, Owain Glyndŵr, Joan of Arc, Hildegard of Bingen, Taliesin
-  - Middle East / Central Asia: Harun al-Rashid, Jabir ibn Hayyan, Ahmad al-Buni, Timur
-  - Africa: Sundiata Keita, Soumaoro Kanté, Nzinga of Ndongo
-  - East Asia: Abe no Seimei, En no Gyōja, Qin Shi Huang, Ge Hong, Zhang Guolao, Choe Chiwon
-  - South Asia: Vikramaditya
-  - Americas: Nezahualcoyotl, Pachacuti, Moctezuma II
+
+**Decided**
+- Myrddin Wyllt (Merlin)
+- Charlemagne
+- Dante Alighieri
+- Jeanne d'Arc
+- Vlad Dracula
+- Ursula Southeil (Mother Shipton)
+- Sundiata Keita
+- Dihya (al-Kahina)
+- Jabir ibn Hayyan
+- Timur
+- Qin Shi Huang
+- He Xiangu: passes at about Merlin's level (no solid record, but a long local tradition tied to Zengcheng, Guangdong)
+- Seondeok of Silla
+- Manco Cápac
+- Marie Laveau: handle with care. Revered in Louisiana Voodoo, a living religion; avoid the "sinister Voodoo" trope; ideally get a reader from that tradition.
+- Harry Houdini
+
+**Decided, details open**
+- **Faust:** Johann Georg Faust (styled himself "Georgius Sabellicus Faustus junior"). Or swap for Pan Twardowski, the Polish Faust?
+- **Prester John:** a legend that attached to different real rulers over time (Yelü Dashi of Qara Khitai → Toghrul/Wang Khan of the Keraites → the emperors of Ethiopia). Keep "Prester John" with a different face each era, or use a real Ethiopian emperor such as Zara Yaqob.
+- **Topiltzin Quetzalcoatl:** shorten to "Topiltzin", or replace with K'inich Janaab' Pakal (Pakal the Great of Palenque) or Spearthrower Owl of Teotihuacan.
+
+**Considering**
+- Kamehameha I, William Shakespeare, Grigori Rasputin, Alexander I of Russia, Kublai Khan, Cagliostro, Bhoja of Malwa (South Asia)
+- Other Taoist Immortals: Lü Dongbin, Zhang Guolao (best documented: a biography in the official Tang histories), and/or the Eight Immortals as a cult. Care: still venerated in Taoist folk religion.
+- More women: Himiko, Catherine de' Medici, Mary the Jewess, Olga of Kiev, Elizabeth Báthory, Nzinga of Ndongo, Hildegard of Bingen, Semiramis
+- Merlin-types: Thomas the Rhymer, Taliesin, Nicolas Flamel, Rabbi Loew (the Golem of Prague), Gilgamesh, the Pied Piper of Hamelin, King Arthur, Pope Joan (may be fully fictional)
+- Others from earlier lists: Virgil, Gerbert of Aurillac, Michael Scot, Albertus Magnus, Roger Bacon, Paracelsus, Nostradamus, Comte de Saint-Germain, Vseslav of Polotsk, Owain Glyndŵr, Harun al-Rashid, Ahmad al-Buni, Soumaoro Kanté, Abe no Seimei, En no Gyōja, Ge Hong, Choe Chiwon, Nezahualcoyotl, Pachacuti, Moctezuma II
+
+**On the fence**
+- Tenskwatawa, Wovoka: religious prophets of Indigenous movements still meaningful to living communities; would want consultation first.
+- Timothy Leary: recent; his estate likely controls commercial use of his name and likeness.
+
+**Cut**
+- John Dee (replaced by Mother Shipton), Vikramaditya (too early)
 
 ### Leaders are immortal wizards
 - Leaders are **immortal (or near-immortal) wizards** who rule for the whole game.
