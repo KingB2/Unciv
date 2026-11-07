@@ -35,7 +35,10 @@ A historical 4X where you rule a **wizard nation**. In the Dark Ages, a hole tor
 ### Leaders
 - Leaders are historical and legendary figures who were (in this world, actually) magicians.
 - **Global and timeless**, like Civ.
-- **The rule:** a real (or plausibly real) person with myth or magic attached. Not entirely fictional, not entirely ordinary.
+- **The rule:** not entirely fictional, not entirely ordinary. Two kinds qualify:
+  1. **Reality grown into legend:** a real person with myth or magic attached (Charlemagne, Joan, Vlad, Houdini).
+  2. **Legend grown from reality:** a literary invention built on a probably-real seed (Merlin).
+- **"Merlin-type" candidates (legend from a real seed, not decided):** Thomas the Rhymer, Taliesin, Faust, Nicolas Flamel, Rabbi Loew (the Golem of Prague), Prester John, Mother Shipton, Semiramis, Gilgamesh, Topiltzin Quetzalcoatl, the Pied Piper of Hamelin, Pope Joan, King Arthur
 - Careful: avoid founders and prophets of living religions; saints are a judgment call.
 - **Decided:** Merlin (or Lailoken), Charlemagne, Dante, Qin Shi Huang, Joan of Arc, Vlad III Dracula, Sundiata Keita, Harry Houdini, Dihya (al-Kahina), Timur, Manco Cápac.
 - **Need more women leaders.** Candidates: Seondeok of Silla, Himiko, Catherine de' Medici, Mary the Jewess, Olga of Kiev, Elizabeth Báthory, Nzinga of Ndongo, Hildegard of Bingen.
