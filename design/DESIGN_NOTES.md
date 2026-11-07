@@ -38,22 +38,21 @@ A historical 4X where you rule a **wizard nation**. In the Dark Ages, a hole tor
 - **The rule:** not entirely fictional, not entirely ordinary. Two kinds qualify:
   1. **Reality grown into legend:** a real person with myth or magic attached (Charlemagne, Jeanne d'Arc, Vlad Dracula, Houdini).
   2. **Legend grown from reality ("the Merlin Protocol"):** a literary invention built on a probably-real seed (Myrddin Wyllt).
+- **Timeline:** leaders should have lived after the Breach (~500 onward).
 - Careful: avoid founders and prophets of living religions; saints are a judgment call.
 
 **Decided** (roster more or less final, except for adding women)
 - Myrddin Wyllt (Merlin)
 - Charlemagne
-- Dante Alighieri
 - Jeanne d'Arc
 - Vlad Dracula
 - Ursula Southeil (Mother Shipton)
 - Grigori Rasputin
 - Sundiata Keita: prophesied at birth; his epic is a war against the sorcerer-king Soumaoro Kanté.
-- Dihya (al-Kahina): "al-Kahina" = "the priestess/soothsayer," a name given by Arab chroniclers (her enemies). Prophecy story: she foresaw her defeat and sent her sons over to the Arab side (reported by Ibn Khaldun, as best I know; verify).
 - Jabir ibn Hayyan
-- Maria Prophetissa (Mary the Jewess)
+- Maria Prophetissa (Mary the Jewess): note, lived ~1st–3rd century, before the Breach. Exception or replace?
 - Kublai Khan
-- Qin Shi Huang
+- Abe no Seimei
 - Seondeok of Silla
 - Manco Cápac
 - Marie Laveau: handle with care. Revered in Louisiana Voodoo, a living religion; avoid the "sinister Voodoo" trope; ideally get a reader from that tradition.
@@ -72,7 +71,7 @@ A historical 4X where you rule a **wizard nation**. In the Dark Ages, a hole tor
 - Timothy Leary: recent; his estate likely controls commercial use of his name and likeness.
 
 **Cut**
-- John Dee (replaced by Mother Shipton), Vikramaditya (too early), Timur (replaced by Kublai Khan), Prester John (too fictional), He Xiangu, Faust, Topiltzin Quetzalcoatl (trimming men / thin records)
+- John Dee (replaced by Mother Shipton), Vikramaditya (too early), Timur (replaced by Kublai Khan), Prester John (too fictional), He Xiangu, Faust, Topiltzin Quetzalcoatl (trimming men / thin records), Dihya (al-Kahina) (thin magic sourcing), Dante Alighieri, Qin Shi Huang (before the Breach; replaced by Abe no Seimei)
 
 ### Leaders are immortal wizards
 - Leaders are **immortal (or near-immortal) wizards** who rule for the whole game.
