@@ -40,7 +40,13 @@ A historical 4X where you rule a **wizard nation**. In the Dark Ages, a hole tor
   2. **Legend grown from reality:** a literary invention built on a probably-real seed (Merlin).
 - **"Merlin-type" candidates (legend from a real seed, not decided):** Thomas the Rhymer, Taliesin, Faust, Nicolas Flamel, Rabbi Loew (the Golem of Prague), Prester John, Semiramis, Gilgamesh, Topiltzin Quetzalcoatl, the Pied Piper of Hamelin, Pope Joan, King Arthur
 - Careful: avoid founders and prophets of living religions; saints are a judgment call.
-- **Decided:** Merlin (or Lailoken), Charlemagne, Dante, Qin Shi Huang, Joan of Arc, Vlad III Dracula, Sundiata Keita, Harry Houdini, Dihya (al-Kahina), Timur, Manco Cápac, Prester John, Topiltzin Quetzalcoatl, Marie Laveau (handle with care: see below), Johann Faust, He Xiangu, Mother Shipton.
+- **Decided (names cleaned up):** Myrddin Wyllt (Merlin), Charlemagne, Dante Alighieri, Qin Shi Huang, Jeanne d'Arc, Vlad Dracula, Sundiata Keita, Harry Houdini, Dihya (al-Kahina), Timur, Manco Cápac, Marie Laveau (handle with care: see below), He Xiangu, Ursula Southeil (Mother Shipton), Jabir ibn Hayyan, Seondeok of Silla.
+- **Decided, details open:**
+  - **Faust:** Johann Georg Faust (styled himself "Georgius Sabellicus Faustus junior"). Or swap for Pan Twardowski, the Polish Faust?
+  - **Prester John:** a legend that attached to different real rulers over time (Yelü Dashi of Qara Khitai → Toghrul/Wang Khan of the Keraites → the emperors of Ethiopia). Either keep "Prester John" with a different face each era, or use a real Ethiopian emperor such as Zara Yaqob.
+  - **Topiltzin Quetzalcoatl:** shorten to "Topiltzin", or replace with K'inich Janaab' Pakal (Pakal the Great of Palenque) or Spearthrower Owl of Teotihuacan.
+- **Considering:** Kamehameha I, William Shakespeare, Grigori Rasputin, Alexander I of Russia, Kublai Khan, Cagliostro, Bhoja of Malwa (for South Asia).
+- **Dropped:** Vikramaditya (too early).
 - **Cut:** John Dee (replaced by Mother Shipton).
   - He Xiangu passes at about Merlin's level: no solid historical record, but a long local tradition (Zengcheng, Guangdong) tied to a real place and era.
 - **Other Taoist Immortals (under consideration):** Lü Dongbin, Zhang Guolao (best-documented: has a biography in the official Tang histories), and/or the Eight Immortals as a cult. Care: they're still venerated in Taoist folk religion.
