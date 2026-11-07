@@ -40,8 +40,9 @@ A historical 4X where you rule a **wizard nation**. In the Dark Ages, a hole tor
   2. **Legend grown from reality:** a literary invention built on a probably-real seed (Merlin).
 - **"Merlin-type" candidates (legend from a real seed, not decided):** Thomas the Rhymer, Taliesin, Faust, Nicolas Flamel, Rabbi Loew (the Golem of Prague), Prester John, Mother Shipton, Semiramis, Gilgamesh, Topiltzin Quetzalcoatl, the Pied Piper of Hamelin, Pope Joan, King Arthur
 - Careful: avoid founders and prophets of living religions; saints are a judgment call.
-- **Decided:** Merlin (or Lailoken), Charlemagne, Dante, Qin Shi Huang, Joan of Arc, Vlad III Dracula, Sundiata Keita, Harry Houdini, Dihya (al-Kahina), Timur, Manco Cápac, Prester John, Topiltzin Quetzalcoatl, Marie Laveau (handle with care: see below), Johann Faust.
-- **Taoist Immortals (under consideration):** Lü Dongbin as a leader (possibly real Tang scholar), He Xiangu as a possible woman leader, and/or the Eight Immortals as a cult. Care: they're still venerated in Taoist folk religion.
+- **Decided:** Merlin (or Lailoken), Charlemagne, Dante, Qin Shi Huang, Joan of Arc, Vlad III Dracula, Sundiata Keita, Harry Houdini, Dihya (al-Kahina), Timur, Manco Cápac, Prester John, Topiltzin Quetzalcoatl, Marie Laveau (handle with care: see below), Johann Faust, He Xiangu.
+  - He Xiangu passes at about Merlin's level: no solid historical record, but a long local tradition (Zengcheng, Guangdong) tied to a real place and era.
+- **Other Taoist Immortals (under consideration):** Lü Dongbin, Zhang Guolao (best-documented: has a biography in the official Tang histories), and/or the Eight Immortals as a cult. Care: they're still venerated in Taoist folk religion.
 - **Need more women leaders.** Candidates: Seondeok of Silla, Himiko, Catherine de' Medici, Mary the Jewess, Olga of Kiev, Elizabeth Báthory, Nzinga of Ndongo, Hildegard of Bingen.
 - **Handle with care:** Marie Laveau (revered in Louisiana Voodoo, a living religion; avoid the 'sinister Voodoo' trope; ideally get a reader from that tradition).
 - **On the fence:** Tenskwatawa, Wovoka (religious prophets of Indigenous movements still meaningful to living communities; would want consultation before including). Timothy Leary (recent; estate likely controls commercial use of his name and likeness).
