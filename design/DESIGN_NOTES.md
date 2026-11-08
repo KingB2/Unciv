@@ -41,16 +41,20 @@ A historical 4X where you rule a **wizard nation**. In the Dark Ages, a hole tor
 - **Timeline:** leaders should have lived after the Breach (~500 onward).
 - Careful: avoid founders and prophets of living religions; saints are a judgment call.
 
-**Decided: roster complete (12)**
+**Decided: roster (16)**
 - Myrddin Wyllt (Merlin)
+- Charlemagne
 - Dante Alighieri
 - Jeanne d'Arc
 - Elizabeth Báthory
 - Sundiata Keita: prophesied at birth; his epic is a war against the sorcerer-king Soumaoro Kanté.
+- Nehanda (Charwe Nyakasikana): care. National heroine of Zimbabwe; spirit mediumship is a living tradition.
 - Jabir ibn Hayyan
+- Hasan-i Sabbah: care. A major figure for the Nizari Ismailis, a living Muslim community. The "Assassins / hashish / garden of paradise" legend is largely enemy propaganda and Marco Polo; also avoid anything resembling Assassin's Creed.
 - Kublai Khan
 - Abe no Seimei
 - Seondeok of Silla
+- Lin Moniang: care. Worshipped today as Mazu by millions; portray her as the mortal woman before deification, with respect.
 - Manco Cápac
 - Marie Laveau: handle with care. Revered in Louisiana Voodoo, a living religion; avoid the "sinister Voodoo" trope; ideally get a reader from that tradition.
 - Harry Houdini
@@ -67,7 +71,7 @@ A historical 4X where you rule a **wizard nation**. In the Dark Ages, a hole tor
 - Timothy Leary: recent; his estate likely controls commercial use of his name and likeness.
 
 **Cut**
-- John Dee (replaced by Mother Shipton), Vikramaditya (too early), Timur (replaced by Kublai Khan), Prester John (too fictional), He Xiangu, Faust, Topiltzin Quetzalcoatl (trimming men / thin records), Dihya (al-Kahina) (thin magic sourcing), Qin Shi Huang (before the Breach; replaced by Abe no Seimei), Grigori Rasputin, Maria Prophetissa (before the Breach), Kamehameha I, Charlemagne (Franks' paladins stay with the civ), Vlad Dracula (replaced by Elizabeth Báthory), Mother Shipton
+- John Dee (replaced by Mother Shipton), Vikramaditya (too early), Timur (replaced by Kublai Khan), Prester John (too fictional), He Xiangu, Faust, Topiltzin Quetzalcoatl (trimming men / thin records), Dihya (al-Kahina) (thin magic sourcing), Qin Shi Huang (before the Breach; replaced by Abe no Seimei), Grigori Rasputin, Maria Prophetissa (before the Breach), Kamehameha I, Vlad Dracula (replaced by Elizabeth Báthory), Mother Shipton
 
 ### Leaders are immortal wizards
 - Leaders are **immortal (or near-immortal) wizards** who rule for the whole game.
