@@ -50,12 +50,12 @@ A historical 4X where you rule a **wizard nation**. In the Dark Ages, a hole tor
 - Sundiata Keita: prophesied at birth; his epic is a war against the sorcerer-king Soumaoro Kanté.
 - Nehanda (Charwe Nyakasikana): care. National heroine of Zimbabwe; spirit mediumship is a living tradition.
 - Jabir ibn Hayyan
-- Hasan-i Sabbah: care. A major figure for the Nizari Ismailis, a living Muslim community. The "Assassins / hashish / garden of paradise" legend is largely enemy propaganda and Marco Polo; also avoid anything resembling Assassin's Creed.
 - Kublai Khan
 - Abe no Seimei
 - Seondeok of Silla
 - Lin Moniang: care. Worshipped today as Mazu by millions; portray her as the mortal woman before deification, with respect.
 - Manco Cápac
+- Tenskwatawa (the Shawnee Prophet): signature: darkening the sun (the 1806 eclipse). A complex figure (also led witch hunts). Care: seek a Shawnee perspective; avoid fraud or noble-savage clichés.
 - Marie Laveau: handle with care. Revered in Louisiana Voodoo, a living religion; avoid the "sinister Voodoo" trope; ideally get a reader from that tradition.
 - Harry Houdini
 
@@ -67,11 +67,11 @@ A historical 4X where you rule a **wizard nation**. In the Dark Ages, a hole tor
 - Others from earlier lists: Virgil, Gerbert of Aurillac, Michael Scot, Albertus Magnus, Roger Bacon, Paracelsus, Nostradamus, Comte de Saint-Germain, Vseslav of Polotsk, Owain Glyndŵr, Harun al-Rashid, Ahmad al-Buni, Soumaoro Kanté, Abe no Seimei, En no Gyōja, Ge Hong, Choe Chiwon, Nezahualcoyotl, Pachacuti, Moctezuma II
 
 **On the fence**
-- Tenskwatawa, Wovoka: religious prophets of Indigenous movements still meaningful to living communities; would want consultation first.
+- Wovoka: religious prophet of Indigenous movements still meaningful to living communities; would want consultation first.
 - Timothy Leary: recent; his estate likely controls commercial use of his name and likeness.
 
 **Cut**
-- John Dee (replaced by Mother Shipton), Vikramaditya (too early), Timur (replaced by Kublai Khan), Prester John (too fictional), He Xiangu, Faust, Topiltzin Quetzalcoatl (trimming men / thin records), Dihya (al-Kahina) (thin magic sourcing), Qin Shi Huang (before the Breach; replaced by Abe no Seimei), Grigori Rasputin, Maria Prophetissa (before the Breach), Kamehameha I, Vlad Dracula (replaced by Elizabeth Báthory), Mother Shipton
+- John Dee (replaced by Mother Shipton), Vikramaditya (too early), Timur (replaced by Kublai Khan), Prester John (too fictional), He Xiangu, Faust, Topiltzin Quetzalcoatl (trimming men / thin records), Dihya (al-Kahina) (thin magic sourcing), Qin Shi Huang (before the Breach; replaced by Abe no Seimei), Grigori Rasputin, Maria Prophetissa (before the Breach), Kamehameha I, Vlad Dracula (replaced by Elizabeth Báthory), Mother Shipton, Hasan-i Sabbah (myth, but not magic: better as the face of a spy/assassin cult or a spy adventurer)
 
 ### Leaders are immortal wizards
 - Leaders are **immortal (or near-immortal) wizards** who rule for the whole game.
