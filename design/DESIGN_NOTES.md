@@ -36,17 +36,16 @@ A historical 4X where you rule a **wizard nation**. In the Dark Ages, a hole tor
 - Leaders are historical and legendary figures who were (in this world, actually) magicians.
 - **Global and timeless**, like Civ.
 - **The rule:** not entirely fictional, not entirely ordinary. Two kinds qualify:
-  1. **Reality grown into legend:** a real person with myth or magic attached (Charlemagne, Jeanne d'Arc, Vlad Dracula, Houdini).
+  1. **Reality grown into legend:** a real person with myth or magic attached (Jeanne d'Arc, Elizabeth Báthory, Houdini).
   2. **Legend grown from reality ("the Merlin Protocol"):** a literary invention built on a probably-real seed (Myrddin Wyllt).
 - **Timeline:** leaders should have lived after the Breach (~500 onward).
 - Careful: avoid founders and prophets of living religions; saints are a judgment call.
 
-**Decided** (roster more or less final, except for adding women)
+**Decided: roster complete (12)**
 - Myrddin Wyllt (Merlin)
-- Charlemagne
+- Dante Alighieri
 - Jeanne d'Arc
-- Vlad Dracula
-- Ursula Southeil (Mother Shipton)
+- Elizabeth Báthory
 - Sundiata Keita: prophesied at birth; his epic is a war against the sorcerer-king Soumaoro Kanté.
 - Jabir ibn Hayyan
 - Kublai Khan
@@ -59,7 +58,7 @@ A historical 4X where you rule a **wizard nation**. In the Dark Ages, a hole tor
 **Considering**
 - William Shakespeare, Alexander I of Russia, Cagliostro, Bhoja of Malwa (South Asia)
 - Other Taoist Immortals: Lü Dongbin, Zhang Guolao (best documented: a biography in the official Tang histories), and/or the Eight Immortals as a cult. Care: still venerated in Taoist folk religion.
-- More women: Nzinga of Ndongo, Himiko, Catherine de' Medici, Olga of Kiev, Elizabeth Báthory, Hildegard of Bingen, Semiramis
+- More women: Nzinga of Ndongo, Himiko, Catherine de' Medici, Olga of Kiev, Hildegard of Bingen, Semiramis
 - Merlin-types: Thomas the Rhymer, Taliesin, Nicolas Flamel, Rabbi Loew (the Golem of Prague), Gilgamesh, the Pied Piper of Hamelin, King Arthur, Pope Joan (may be fully fictional)
 - Others from earlier lists: Virgil, Gerbert of Aurillac, Michael Scot, Albertus Magnus, Roger Bacon, Paracelsus, Nostradamus, Comte de Saint-Germain, Vseslav of Polotsk, Owain Glyndŵr, Harun al-Rashid, Ahmad al-Buni, Soumaoro Kanté, Abe no Seimei, En no Gyōja, Ge Hong, Choe Chiwon, Nezahualcoyotl, Pachacuti, Moctezuma II
 
@@ -68,7 +67,7 @@ A historical 4X where you rule a **wizard nation**. In the Dark Ages, a hole tor
 - Timothy Leary: recent; his estate likely controls commercial use of his name and likeness.
 
 **Cut**
-- John Dee (replaced by Mother Shipton), Vikramaditya (too early), Timur (replaced by Kublai Khan), Prester John (too fictional), He Xiangu, Faust, Topiltzin Quetzalcoatl (trimming men / thin records), Dihya (al-Kahina) (thin magic sourcing), Dante Alighieri, Qin Shi Huang (before the Breach; replaced by Abe no Seimei), Grigori Rasputin, Maria Prophetissa (before the Breach), Kamehameha I
+- John Dee (replaced by Mother Shipton), Vikramaditya (too early), Timur (replaced by Kublai Khan), Prester John (too fictional), He Xiangu, Faust, Topiltzin Quetzalcoatl (trimming men / thin records), Dihya (al-Kahina) (thin magic sourcing), Qin Shi Huang (before the Breach; replaced by Abe no Seimei), Grigori Rasputin, Maria Prophetissa (before the Breach), Kamehameha I, Charlemagne (Franks' paladins stay with the civ), Vlad Dracula (replaced by Elizabeth Báthory), Mother Shipton
 
 ### Leaders are immortal wizards
 - Leaders are **immortal (or near-immortal) wizards** who rule for the whole game.
