@@ -111,7 +111,17 @@ Alternating fun and slog:
 - **Founding a city automatically clears the Veil from the city's tile.** Everything else has to be cleared.
 - **Fog of war in two steps:** unexplored (can't see) → explored but Veiled (can see, still dangerous) → cleared.
 - **Dedicated anti-monster techs, units and buildings** exist specifically to fight the barbarian monsters.
-- Open: what does clearing take? Can a Veil grow back or spread? Is there a reason *not* to clear one (e.g., it also yields Mana)?
+- **New Veil regions spawn in the fog of war at each era transition.** (So vision does matter: it doesn't stop monsters spawning from existing Veils, but it keeps new Veil from forming.)
+
+### Breaches
+- **The Breach is a physical place on the map, surrounded by Veil.**
+- **There's one on every continent** (rather than a single one at the center of the map).
+- **Units can interact with Breaches.**
+- **Each Breach acts like a city-state**: a gateway to unimaginable other planes of existence, where the fairies and other beings come from.
+- Ideas on the table: the Breach tore open once in 500 and its pieces fell on every continent; each Breach opens onto a different plane, perhaps shaped by that continent's folklore; adventurers travel through Breaches to trade, negotiate and gather crafting ingredients.
+- Open: can armies go through, or only adventurers? Can a Breach be closed, and should it be?
+
+- Open: what does clearing take? Is there a reason *not* to clear one (e.g., it also yields Mana)?
 - Ideas on the table: light as territory; light sources that advance by era (torches → lanterns → gaslight → electric → artificial-magic light); Tenskwatawa's eclipse temporarily brings the darkness everywhere; darkness could be the other side seeping through (a possible answer to what the Veil does).
 
 ### Mythology
