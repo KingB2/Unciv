@@ -16,6 +16,18 @@ A historical 4X where you rule a **wizard nation**. In the Dark Ages, a hole tor
 
 ---
 
+## Roadmap (what to design next)
+Alternating fun and slog:
+1. ~~Leaders~~ (done: 16)
+2. **Spells** (fun): signature spells for a few leaders, then work out the general rules of spellcasting from them
+3. **Civs** (slog): who's playable, and each civ's earthly identity (land, buildings, unique units)
+4. **Cults** (fun): what each cult does, per era
+5. **The core loop** (slog): where mana comes from, the Veil, how you win
+6. **Era changes**: what happens at each transition
+7. **First playable build** in Godot (a tiny one)
+
+---
+
 ## Settled
 
 ### Start
