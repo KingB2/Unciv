@@ -102,6 +102,12 @@ Alternating fun and slog:
 - Used to **cast spells** in game.
 - Some **units require Mana** to build.
 
+### Darkness (direction, details open)
+- **The fog of war is dangerous, not just unseen.** Darkness is a threat.
+- **Barbarians are monsters:** ogres and other creatures in the dark.
+- A goal is to **keep the darkness at bay**: light fires, build watchtowers.
+- Ideas on the table: light as territory; light sources that advance by era (torches → lanterns → gaslight → electric → artificial-magic light); Tenskwatawa's eclipse temporarily brings the darkness everywhere; darkness could be the other side seeping through (a possible answer to what the Veil does).
+
 ### Mythology
 - **Mythology is the non-player layer.** Fully mythic figures (gods, monsters, folk spirits) aren't leaders; they're city-states, incursion threats, wonders and cult patrons.
 - Care with gods of living religions.
