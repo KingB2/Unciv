@@ -184,9 +184,10 @@ Alternating fun and slog:
 ---
 
 ## Things the Designer Loves (want in some form)
-- Civ VI **Disasters** game mode
+- Civ VI **Apocalypse** game mode (and Disasters)
+- Civ VI **Heroes & Legends** game mode
 - Civ VI **Secret Societies** game mode
-- Civ VI **Zombie** game mode
+- Civ VI **Zombie Defense** game mode
 - **Religion** (Civ VI's was the most interesting, though it still fell short)
 - **Espionage**
 - **Era switching** (Civ VII / Humankind)
@@ -220,6 +221,11 @@ Alternating fun and slog:
 - **Story spine:** wonder → industry → trying to replace the thing that changed everything.
 
 ---
+
+## Neighbors on the Shelf
+- **Age of Wonders** (esp. AoW4): closest relative. Shares wizard rulers, mana, spells, heroes, monster lairs, and magic "tomes" researched over time. Differs: pure invented fantasy (no real history, no historical leaders, no Breach-to-present eras), tactical battle maps. Our darkness/Veil layer is our own.
+- Others in the genre: Master of Magic, Endless Legend.
+- Takeaway: same genre, not the same game. Avoid copying specifics.
 
 ## Technical Notes
 - **Engine: Godot. Fresh start** — not built on Unciv.
