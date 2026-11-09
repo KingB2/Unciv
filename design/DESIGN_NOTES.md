@@ -119,14 +119,16 @@ Alternating fun and slog:
 - **The Breach is a physical place on the map, surrounded by Veil.**
 - **There's one on every continent** (rather than a single one at the center of the map).
 - **Units can interact with Breaches.**
-- **Each Breach acts like a city-state**: a gateway to unimaginable other planes of existence, where the fairies and other beings come from.
-- Ideas on the table: the Breach tore open once in 500 and its pieces fell on every continent; each Breach opens onto a different plane, perhaps shaped by that continent's folklore; adventurers travel through Breaches to trade, negotiate and gather crafting ingredients.
+- Each Breach is a gateway to unimaginable other planes of existence, where the fairies and other beings come from.
+- **Breaches are NOT city-states** (no diplomacy with them). You can explore, trade and colonize. City-states are a separate thing.
+- Ideas on the table: the Breach tore open once in 500 and its pieces fell on every continent; each Breach opens onto a different plane, perhaps shaped by that continent's folklore; adventurers travel through Breaches to trade and gather crafting ingredients.
 - **Only adventurers can go through.** Entering triggers an **event chain**, like a Victoria exploration mission.
 - **Rewards:** harvest Mana, get unique fairy units, other things.
 - **Overuse has a price:** if a Breach is entered too many times in one era, it can spawn a **super-strong barbarian unit** (a "barbarian Giant Death Robot"), e.g. a dragon.
 - **Later eras:** a Breach can be **claimed permanently by imperializing and colonizing the other plane.**
 - **Breaches can be shut** for massive one-time bonuses. **Closing Breaches is likely a victory condition.**
-- Open: does the overuse count per player, or is it shared by everyone using that Breach? What exactly wins: closing all Breaches, most, or one per continent?
+- **The overuse counter is shared** by everyone using that Breach.
+- Open: what exactly wins: closing all Breaches, most, or one per continent?
 - Note: colonizing other planes in the imperial era will rhyme with real colonialism, and the roster includes anti-colonial leaders (Nehanda, Tenskwatawa). Worth designing on purpose (e.g., the planes resist).
 
 ### Mythology
@@ -230,7 +232,7 @@ Alternating fun and slog:
 - **Religion as "what is the Breach?":** each faith answers that question (heaven, hell, Faerie, a wound…) and so sets how its people treat magic.
 - **Secret Societies → wizard orders:** lodges, covens, cabals offering forbidden power with their own agendas.
 - **Espionage → magical spycraft:** scrying, stealing spells, sabotage, triggering incursions in rival lands.
-- **City-states → beings from beyond the Breach:** fae courts, elder peoples.
+- **City-states → beings from beyond the Breach:** fae courts, elder peoples. (Note: Breaches themselves are not city-states.)
 - **Era 4 → Thaumaturgic Revolution:** Mana-burning industry.
 - **Era 5 → synthetic magic:** salvation or final mistake.
 - **Story spine:** wonder → industry → trying to replace the thing that changed everything.
