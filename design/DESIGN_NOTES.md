@@ -106,10 +106,12 @@ Alternating fun and slog:
 - **The fog of war is dangerous, not just unseen.** Darkness is a threat.
 - **Barbarians are monsters:** ogres and other creatures in the dark.
 - A goal is to **keep the darkness at bay**: light fires, build watchtowers.
-- **Veil tiles:** physical tiles on the map, hidden in the fog, that must be cleared.
-- **Seeing a Veil tile doesn't stop spawns.** Unlike Civ, line of sight doesn't prevent barbarians from appearing.
+- **The Veil is a tile feature**, a layer on a tile like hills or vegetation.
+- **Barbarian monsters spawn from Veils**, which can be anywhere, including near your cities. (In Civ, barbarians can't spawn within a set distance of cities; here they can.)
+- **Founding a city automatically clears the Veil from the city's tile.** Everything else has to be cleared.
+- **Fog of war in two steps:** unexplored (can't see) → explored but Veiled (can see, still dangerous) → cleared.
 - **Dedicated anti-monster techs, units and buildings** exist specifically to fight the barbarian monsters.
-- Open: what does clearing take? Is there a reason *not* to clear a Veil tile (e.g., it also yields Mana)?
+- Open: what does clearing take? Can a Veil grow back or spread? Is there a reason *not* to clear one (e.g., it also yields Mana)?
 - Ideas on the table: light as territory; light sources that advance by era (torches → lanterns → gaslight → electric → artificial-magic light); Tenskwatawa's eclipse temporarily brings the darkness everywhere; darkness could be the other side seeping through (a possible answer to what the Veil does).
 
 ### Mythology
