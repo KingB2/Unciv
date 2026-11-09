@@ -121,7 +121,13 @@ Alternating fun and slog:
 - **Units can interact with Breaches.**
 - **Each Breach acts like a city-state**: a gateway to unimaginable other planes of existence, where the fairies and other beings come from.
 - Ideas on the table: the Breach tore open once in 500 and its pieces fell on every continent; each Breach opens onto a different plane, perhaps shaped by that continent's folklore; adventurers travel through Breaches to trade, negotiate and gather crafting ingredients.
-- Open: can armies go through, or only adventurers? Can a Breach be closed, and should it be?
+- **Only adventurers can go through.** Entering triggers an **event chain**, like a Victoria exploration mission.
+- **Rewards:** harvest Mana, get unique fairy units, other things.
+- **Overuse has a price:** if a Breach is entered too many times in one era, it can spawn a **super-strong barbarian unit** (a "barbarian Giant Death Robot"), e.g. a dragon.
+- **Later eras:** a Breach can be **claimed permanently by imperializing and colonizing the other plane.**
+- **Breaches can be shut** for massive one-time bonuses. **Closing Breaches is likely a victory condition.**
+- Open: does the overuse count per player, or is it shared by everyone using that Breach? What exactly wins: closing all Breaches, most, or one per continent?
+- Note: colonizing other planes in the imperial era will rhyme with real colonialism, and the roster includes anti-colonial leaders (Nehanda, Tenskwatawa). Worth designing on purpose (e.g., the planes resist).
 
 ### Mythology
 - **Mythology is the non-player layer.** Fully mythic figures (gods, monsters, folk spirits) aren't leaders; they're city-states, incursion threats, wonders and cult patrons.
