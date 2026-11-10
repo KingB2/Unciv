@@ -101,7 +101,8 @@ Alternating fun and slog:
 - **Some civs can be alt-history nations**, e.g. an industrial-era Plantagenet realm, or Burgundy. Not a rule for all civs.
 - **Civs can come from any era**, not only the first (the way Civ still lets you play America). No civ switching.
 - **Nothing from before the 5th–6th century.** Civs aren't restricted to eras otherwise.
-- Watch: don't drift into pure alt-history (Harry Turtledove). Civs should keep a real connection to real countries. Open: how specific (people/kingdom vs. dynasty)?
+- Watch: don't drift into pure alt-history (Harry Turtledove). Civs should keep a real connection to real countries. The differences from real history come from **magic**.
+- **Civs are nations,** thought of in a national sense (like Civ before Civ VII). **A civ doesn't change its face each era**: England just stays England.
 - **The approach:** history, but different because of wizards. Familiar and strange aren't mutually exclusive. Not rule of cool; the list should have a subconscious rhythm, and gets **felt out** rather than built from a rule.
 - Consideration: the leader roster is already full of deep cuts, so familiar civs may give players footing.
 - **Reference: Civ V's roster by era** (all 43 civs, sorted by their leader's era): Ancient 4, Classical 5, Medieval (500–1450) 14, Early modern (1450–1700) 8, 1700–1945: 12, post-1945: ~0. Mapped onto our eras (34 post-500 civs): Era 1 ~15%, Era 2 ~26%, Era 3 ~24%, Era 4 ~35%, Era 5 ~0%. Civ avoids post-1945 nations almost entirely.
@@ -111,7 +112,7 @@ Alternating fun and slog:
 - **Civ list (in progress):**
   - **The Britons:** sub-Roman Britain, Roman-influenced Brythonic (Welsh, Cornish, Breton, and the classical Celts of England). Capital: Caerleon. (Era 1)
   - **Francia:** the Frankish kingdom and its dynasties, including West, East and Middle Francia. Capital: Aachen. (Era 1)
-  - **Angevin:** the Plantagenet lands, assuming they survived into a parallel of 18th–19th-century Britain and France. Capital: Paris. (Era 4)
+  - **Angevin** (or Anjou / Angeva; Latin: Andegavia): a **nation** with a combined Anglo-French culture developed over centuries, a parallel to 18th–19th-century Britain and France. Real roots: the Anglo-Norman language, and Law French in English courts. Capital: Paris. (Era 4)
   - **The Netherlands:** the medieval and Renaissance Burgundians, and the later Low Countries if they'd stayed under Valois. Capital: Brussels. (Era 2–3)
 
 ### Resource: Mana
