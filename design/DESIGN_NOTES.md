@@ -114,7 +114,7 @@ Alternating fun and slog:
   - **Francia:** the Frankish kingdom and its dynasties, including West, East and Middle Francia. Capital: Aachen. (Era 1)
   - **Angevin** (or Anjou / Angeva; Latin: Andegavia): a **nation** with a combined Anglo-French culture developed over centuries, a parallel to 18th–19th-century Britain and France. Real roots: the Anglo-Norman language, and Law French in English courts. Capital: Paris. (Era 4)
   - **The Netherlands:** grows out of the medieval and Renaissance Burgundians; named for the Low Countries because that's the culture that became nationally dominant. Look: somewhere between 17th-century Amsterdam and 19th-century Brussels. Capital: Brussels. (Era 2–3)
-  - **Candidates (names and details TBD):** Mali; Vinland; the Arabs / Arabia; China (Tang/Song); Kyivan Rus' / Ukraine / Russia; America (or its equivalent); Ethiopia / Aksum; Spain; Bavaria; Prussia / the Hansa; Poland-Lithuania; Japan; the Mongols (Timurids / Golden Horde); the Ottomans / Rum; India.
+  - **Candidates (names and details TBD):** Mali; Greenland (Norse Greenland, including Vinland: "what if the Greenlandic golden age kept going"); the Arabs / Arabia; China (Tang/Song); Kyivan Rus' / Ukraine / Russia; America (or its equivalent); Ethiopia / Aksum; Spain; Bavaria; Prussia / the Hansa; Poland-Lithuania; Japan; the Mongols (Timurids / Golden Horde); the Ottomans / Rum; India.
 
 ### Resource: Mana
 - **One magic resource: Mana.**
