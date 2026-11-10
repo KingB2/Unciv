@@ -98,9 +98,10 @@ Alternating fun and slog:
 
 ### Civs
 - **Random maps.** Every game is different.
-- **Civs are alt-history nations**, not just famous real states. E.g., an industrial-era Plantagenet realm, or Burgundy.
+- **Some civs can be alt-history nations**, e.g. an industrial-era Plantagenet realm, or Burgundy. Not a rule for all civs.
 - **Civs can come from any era**, not only the first (the way Civ still lets you play America). No civ switching.
-- Idea on the table ("Might-Have-Been" rule): nations that history cut short or never quite let happen, which the Breach let survive.
+- **Open: how historical to go**, i.e. the mix of familiar civs vs. alt-history deep cuts, and what's too much for players.
+- Consideration: the leader roster is already full of deep cuts, so familiar civs may give players footing.
 
 ### Resource: Mana
 - **One magic resource: Mana.**
