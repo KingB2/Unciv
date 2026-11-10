@@ -106,6 +106,11 @@ Alternating fun and slog:
 - **Reference: Civ VI's roster by era** (all 50 civs, sorted by each civ's original leader): Ancient 5, Classical 8, Medieval 16, Early modern 10, 1700–1945: 11, post-1945: 0. Mapped onto our eras (37 post-500 civs): Era 1 ~11%, Era 2 ~32%, Era 3 ~27%, Era 4 ~30%, Era 5 0%.
 - **Both games averaged:** Era 1 ~13%, Era 2 ~29%, Era 3 ~25%, Era 4 ~32%, Era 5 ~0%.
 - Rough target for a ~16–20 civ list: Era 1: 2–3, Era 2: 5–6, Era 3: 4–5, Era 4: 5–6, Era 5: 0–1 (a natural slot for invented or alt-history nations).
+- **Civ list (in progress):**
+  - **The Britons:** sub-Roman Britain, Roman-influenced Brythonic (Welsh, Cornish, Breton, and the classical Celts of England). Capital: Caerleon. (Era 1)
+  - **Francia:** the Frankish kingdom and its dynasties, including West, East and Middle Francia. Capital: Aachen. (Era 1)
+  - **Angevin:** the Plantagenet lands, assuming they survived into a parallel of 18th–19th-century Britain and France. Capital: Paris. (Era 4)
+  - **The Netherlands:** the medieval and Renaissance Burgundians, and the later Low Countries if they'd stayed under Valois. Capital: Brussels. (Era 2–3)
 
 ### Resource: Mana
 - **One magic resource: Mana.**
