@@ -96,6 +96,12 @@ Alternating fun and slog:
 ### Civs don't transition; cults do
 - **Civs stay the same all game.** The era-to-era transformation comes from **cults**: each era, your nation can take up a new cult.
 
+### Civs
+- **Random maps.** Every game is different.
+- **Civs are alt-history nations**, not just famous real states. E.g., an industrial-era Plantagenet realm, or Burgundy.
+- **Civs can come from any era**, not only the first (the way Civ still lets you play America). No civ switching.
+- Idea on the table ("Might-Have-Been" rule): nations that history cut short or never quite let happen, which the Breach let survive.
+
 ### Resource: Mana
 - **One magic resource: Mana.**
 - **Icon: a burning skull.**
