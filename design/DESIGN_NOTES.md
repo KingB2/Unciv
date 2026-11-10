@@ -100,6 +100,8 @@ Alternating fun and slog:
 - **Random maps.** Every game is different.
 - **Some civs can be alt-history nations**, e.g. an industrial-era Plantagenet realm, or Burgundy. Not a rule for all civs.
 - **Civs can come from any era**, not only the first (the way Civ still lets you play America). No civ switching.
+- **Nothing from before the 5th–6th century.** Civs aren't restricted to eras otherwise.
+- Watch: don't drift into pure alt-history (Harry Turtledove). Civs should keep a real connection to real countries. Open: how specific (people/kingdom vs. dynasty)?
 - **The approach:** history, but different because of wizards. Familiar and strange aren't mutually exclusive. Not rule of cool; the list should have a subconscious rhythm, and gets **felt out** rather than built from a rule.
 - Consideration: the leader roster is already full of deep cuts, so familiar civs may give players footing.
 - **Reference: Civ V's roster by era** (all 43 civs, sorted by their leader's era): Ancient 4, Classical 5, Medieval (500–1450) 14, Early modern (1450–1700) 8, 1700–1945: 12, post-1945: ~0. Mapped onto our eras (34 post-500 civs): Era 1 ~15%, Era 2 ~26%, Era 3 ~24%, Era 4 ~35%, Era 5 ~0%. Civ avoids post-1945 nations almost entirely.
