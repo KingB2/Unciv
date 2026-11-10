@@ -100,7 +100,7 @@ Alternating fun and slog:
 - **Random maps.** Every game is different.
 - **Some civs can be alt-history nations**, e.g. an industrial-era Plantagenet realm, or Burgundy. Not a rule for all civs.
 - **Civs can come from any era**, not only the first (the way Civ still lets you play America). No civ switching.
-- **Open: how historical to go**, i.e. the mix of familiar civs vs. alt-history deep cuts, and what's too much for players.
+- **The approach:** history, but different because of wizards. Familiar and strange aren't mutually exclusive. Not rule of cool; the list should have a subconscious rhythm, and gets **felt out** rather than built from a rule.
 - Consideration: the leader roster is already full of deep cuts, so familiar civs may give players footing.
 
 ### Resource: Mana
