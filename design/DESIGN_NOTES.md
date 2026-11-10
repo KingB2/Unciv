@@ -109,13 +109,18 @@ Alternating fun and slog:
 - **Reference: Civ VI's roster by era** (all 50 civs, sorted by each civ's original leader): Ancient 5, Classical 8, Medieval 16, Early modern 10, 1700–1945: 11, post-1945: 0. Mapped onto our eras (37 post-500 civs): Era 1 ~11%, Era 2 ~32%, Era 3 ~27%, Era 4 ~30%, Era 5 0%.
 - **Both games averaged:** Era 1 ~13%, Era 2 ~29%, Era 3 ~25%, Era 4 ~32%, Era 5 ~0%.
 - Rough target for a ~16–20 civ list: Era 1: 2–3, Era 2: 5–6, Era 3: 4–5, Era 4: 5–6, Era 5: 0–1 (a natural slot for invented or alt-history nations).
-- **Civ list (in progress):**
-  - **The Britons:** sub-Roman Britain, Roman-influenced Brythonic (Welsh, Cornish, Breton, and the classical Celts of England). Capital: Caerleon. (Era 1)
-  - **Francia:** the Frankish kingdom and its dynasties, including West, East and Middle Francia. Capital: Aachen. (Era 1)
-  - **Angevin** (or Anjou / Angeva; Latin: Andegavia): a **nation** with a combined Anglo-French culture developed over centuries, a parallel to 18th–19th-century Britain and France. Real roots: the Anglo-Norman language, and Law French in English courts. Capital: Paris. (Era 4)
-  - **The Netherlands:** grows out of the medieval and Renaissance Burgundians; named for the Low Countries because that's the culture that became nationally dominant. Look: somewhere between 17th-century Amsterdam and 19th-century Brussels. Capital: Brussels. (Era 2–3)
-  - **Candidates (names and details TBD):** Mali; Greenland (Norse Greenland, including Vinland: "what if the Greenlandic golden age kept going"); the Arabs / Arabia; China (Tang/Song); Kyivan Rus' / Ukraine / Russia; America-equivalent: **Acadia** (or **Columbia** if that land is held by Greenland); name still open, **Orleans** also a possibility; Ethiopia / Aksum; Spain; Bavaria (home of the Illuminati and Neuschwanstein; chosen over "the Germans" or Austria); Prussia (the **Baltic** Prussians: the Northern Crusades never destroyed them, so it's a Baltic people, not German Prussia); Poland (no Lithuania); Japan; the Mongols (Timurids / Golden Horde); the Ottomans / Rum; India.
-  - **Idea: Western Roman survivors in the Caribbean.** Survivors of the Western Roman Empire use magic to escape far away and end up in the pre-Columbian Caribbean. May or may not survive the colonial era. Working name "Roma." Considerations: "Roma" is also the name of the Romani people; timing (Rome fell in 476, before the Breach, unless the Breach itself is what carried them); arriving in Taíno/Kalinago lands makes it a colonial story unless they're refugees absorbed into a blended culture. Possible name: **Antillia**, the real medieval legend of refugees who fled Iberia across the Atlantic to an island of Seven Cities (the Antilles are named after it).
+- **Civ list (in progress, 27, needs trimming):** Mali, Greenland, Arabia, China, the Rus', Japan, the Mongols, the Ottomans, Spain, Bavaria, India, Romania, Ethiopia, the Haudenosaunee, the Inca, the Muisca, Byzantium, Hawaii, Acadia, Tibet, Italy, Jerusalem, the Paiute, Prussia, the Netherlands, Andegavia, Antillea.
+  - Not on this list but discussed earlier: the Britons, Francia, Poland.
+- **Civ details so far:**
+  - **The Britons:** sub-Roman Britain, Roman-influenced Brythonic (Welsh, Cornish, Breton, and the classical Celts of England). Capital: Caerleon.
+  - **Francia:** the Frankish kingdom and its dynasties, including West, East and Middle Francia. Capital: Aachen.
+  - **Andegavia (Angevin):** a nation with a combined Anglo-French culture developed over centuries, a parallel to 18th–19th-century Britain and France. Real roots: the Anglo-Norman language, and Law French in English courts. Capital: Paris.
+  - **The Netherlands:** grows out of the medieval and Renaissance Burgundians; named for the Low Countries because that's the culture that became nationally dominant. Look: somewhere between 17th-century Amsterdam and 19th-century Brussels. Capital: Brussels.
+  - **Greenland:** Norse Greenland, including Vinland: "what if the Greenlandic golden age kept going." Consider a Norse–Inuit blended culture.
+  - **Prussia:** the Baltic Prussians; the Northern Crusades never destroyed them. A Baltic people, not German Prussia. (No Lithuania.)
+  - **Bavaria:** home of the Illuminati and Neuschwanstein; chosen over "the Germans" or Austria.
+  - **Acadia:** the America-equivalent (or Columbia if Greenland holds that land); name still open, Orleans also a possibility.
+  - **Antillea:** survivors of the Western Roman Empire who end up in the pre-Columbian Caribbean; may or may not survive the colonial era. Considerations: timing (Rome fell in 476, before the Breach, unless the Breach carried them); avoid a colonial story by making them refugees absorbed into a blended culture. Named after Antillia, the medieval legend of refugees who fled Iberia across the Atlantic to an island of Seven Cities (the Antilles are named after it).
 
 ### Resource: Mana
 - **One magic resource: Mana.**
