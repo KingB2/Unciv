@@ -177,8 +177,9 @@ Alternating fun and slog:
 - Discovering alchemy lets you **convert resources into other resources**.
 - **Relics and great works can be crafted** by exchanging resources for them.
 - Crafted items are **magic, so they carry big bonuses**.
+- Crafted relics **provide bonuses in your cities the way resources do**.
 - Open: where do rare ingredients come from? Are recipes known, or discovered?
-- Idea on the table: rare ingredients come from dangerous or special places (thin places, incursions, fae city-states), tying crafting to exploration, trade and diplomacy.
+- Idea on the table: rare ingredients come from dangerous or special places, especially **Breach expeditions**, plus monsters, city-states and trade.
 
 ### The Adventurer
 - Instead of only building scouts, you can build an **adventurer** (inspired by Age of Empires).
