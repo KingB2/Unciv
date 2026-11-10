@@ -102,6 +102,8 @@ Alternating fun and slog:
 - **Civs can come from any era**, not only the first (the way Civ still lets you play America). No civ switching.
 - **The approach:** history, but different because of wizards. Familiar and strange aren't mutually exclusive. Not rule of cool; the list should have a subconscious rhythm, and gets **felt out** rather than built from a rule.
 - Consideration: the leader roster is already full of deep cuts, so familiar civs may give players footing.
+- **Reference: Civ V's roster by era** (all 43 civs, sorted by their leader's era): Ancient 4, Classical 5, Medieval (500–1450) 14, Early modern (1450–1700) 8, 1700–1945: 12, post-1945: ~0. Mapped onto our eras (34 post-500 civs): Era 1 ~15%, Era 2 ~26%, Era 3 ~24%, Era 4 ~35%, Era 5 ~0%. Civ avoids post-1945 nations almost entirely.
+- Rough target for a ~16–20 civ list: Era 1: 3, Era 2: 4–5, Era 3: 4, Era 4: 5–6, Era 5: 0–1 (a natural slot for invented or alt-history nations).
 
 ### Resource: Mana
 - **One magic resource: Mana.**
