@@ -48,7 +48,7 @@ Alternating fun and slog:
 - Leaders are historical and legendary figures who were (in this world, actually) magicians.
 - **Global and timeless**, like Civ.
 - **The rule:** not entirely fictional, not entirely ordinary. Two kinds qualify:
-  1. **Reality grown into legend:** a real person with myth or magic attached (Jeanne d'Arc, Elizabeth Báthory, Houdini).
+  1. **Reality grown into legend:** a real person with myth or magic attached (Charlemagne, Elizabeth Báthory, Houdini).
   2. **Legend grown from reality ("the Merlin Protocol"):** a literary invention built on a probably-real seed (Myrddin Wyllt).
 - **Timeline:** leaders should have lived after the Breach (~500 onward).
 - Careful: avoid founders and prophets of living religions; saints are a judgment call.
@@ -57,7 +57,7 @@ Alternating fun and slog:
 - Myrddin Wyllt (Merlin)
 - Charlemagne
 - Dante Alighieri
-- Jeanne d'Arc
+- Ursula Southeil (Mother Shipton)
 - Elizabeth Báthory
 - Sundiata Keita: prophesied at birth; his epic is a war against the sorcerer-king Soumaoro Kanté.
 - Nehanda (Charwe Nyakasikana): care. National heroine of Zimbabwe; spirit mediumship is a living tradition.
@@ -83,7 +83,7 @@ Alternating fun and slog:
 - Timothy Leary: recent; his estate likely controls commercial use of his name and likeness.
 
 **Cut**
-- John Dee (replaced by Mother Shipton), Vikramaditya (too early), Timur (replaced by Kublai Khan), Prester John (too fictional), He Xiangu, Faust, Topiltzin Quetzalcoatl (trimming men / thin records), Dihya (al-Kahina) (thin magic sourcing), Qin Shi Huang (before the Breach; replaced by Abe no Seimei), Grigori Rasputin, Maria Prophetissa (before the Breach), Kamehameha I, Vlad Dracula (replaced by Elizabeth Báthory), Mother Shipton, Hasan-i Sabbah (myth, but not magic: better as the face of a spy/assassin cult or a spy adventurer)
+- John Dee (replaced by Mother Shipton), Vikramaditya (too early), Timur (replaced by Kublai Khan), Prester John (too fictional), He Xiangu, Faust, Topiltzin Quetzalcoatl (trimming men / thin records), Dihya (al-Kahina) (thin magic sourcing), Qin Shi Huang (before the Breach; replaced by Abe no Seimei), Grigori Rasputin, Maria Prophetissa (before the Breach), Kamehameha I, Vlad Dracula (replaced by Elizabeth Báthory), Hasan-i Sabbah, Jeanne d'Arc (replaced by Mother Shipton: Andegavia winning the Hundred Years' War complicates her) (myth, but not magic: better as the face of a spy/assassin cult or a spy adventurer)
 
 ### Leaders are immortal wizards
 - Leaders are **immortal (or near-immortal) wizards** who rule for the whole game.
