@@ -83,7 +83,7 @@ Alternating fun and slog:
 - Timothy Leary: recent; his estate likely controls commercial use of his name and likeness.
 
 **Cut**
-- John Dee (replaced by Mother Shipton), Vikramaditya (too early), Timur (replaced by Kublai Khan), Prester John (too fictional), He Xiangu, Faust, Topiltzin Quetzalcoatl (trimming men / thin records), Dihya (al-Kahina) (thin magic sourcing), Qin Shi Huang (before the Breach; replaced by Abe no Seimei), Grigori Rasputin, Maria Prophetissa (before the Breach), Kamehameha I, Vlad Dracula (replaced by Elizabeth Báthory), Hasan-i Sabbah, Jeanne d'Arc (replaced by Mother Shipton: Andegavia winning the Hundred Years' War complicates her) (myth, but not magic: better as the face of a spy/assassin cult or a spy adventurer)
+- John Dee (replaced by Mother Shipton), Vikramaditya (too early), Timur (replaced by Kublai Khan), Prester John (too fictional), He Xiangu, Faust, Topiltzin Quetzalcoatl (trimming men / thin records), Dihya (al-Kahina) (thin magic sourcing), Qin Shi Huang (before the Breach; replaced by Abe no Seimei), Grigori Rasputin, Maria Prophetissa (before the Breach), Kamehameha I, Vlad Dracula (replaced by Elizabeth Báthory), Hasan-i Sabbah (myth, but not magic: better as the face of a spy/assassin cult or a spy adventurer), Jeanne d'Arc (replaced by Mother Shipton: Andegavia winning the Hundred Years' War complicates her)
 
 ### Leaders are immortal wizards
 - Leaders are **immortal (or near-immortal) wizards** who rule for the whole game.
