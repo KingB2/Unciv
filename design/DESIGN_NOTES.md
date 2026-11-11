@@ -109,18 +109,19 @@ Alternating fun and slog:
 - **Reference: Civ VI's roster by era** (all 50 civs, sorted by each civ's original leader): Ancient 5, Classical 8, Medieval 16, Early modern 10, 1700–1945: 11, post-1945: 0. Mapped onto our eras (37 post-500 civs): Era 1 ~11%, Era 2 ~32%, Era 3 ~27%, Era 4 ~30%, Era 5 0%.
 - **Both games averaged:** Era 1 ~13%, Era 2 ~29%, Era 3 ~25%, Era 4 ~32%, Era 5 ~0%.
 - Rough target for a ~16–20 civ list: Era 1: 2–3, Era 2: 5–6, Era 3: 4–5, Era 4: 5–6, Era 5: 0–1 (a natural slot for invented or alt-history nations).
-- **Civ list (22, first pass done; do a second pass later):** the Britons, Francia, Andegavia, the Netherlands, Bavaria, Prussia, Spain, the Papal States / Holy See, Byzantium, the Rus', Arabia, Mali, Ethiopia, India, China, Japan, the Mongols, Hawaii, Greenland, Acadia, the Haudenosaunee, the Muisca.
-  - **Pulled:** Jerusalem, the Paiute, Romania, Tibet, the Inca, the Ottomans, Antillea, Poland, Italy (replaced by the Papal States / Holy See).
-  - Why Acadia and Greenland: Americans will want to play as themselves (Acadia); Greenland is the only Norse nation and also another Native American nation (Norse–Inuit).
+- **Civ list (20):** the Britons, the Franks, Andegavia, the Netherlands, Bavaria, Prussia, Spain, al-Andalus, the Papal States, Arabia, Mali, Ethiopia, India, China, Japan, the Mongols, Hawaii, Acadia, the Haudenosaunee, the Muisca.
+  - **Pulled:** Jerusalem, the Paiute, Romania, Tibet, the Inca, the Ottomans, Antillea, Poland, Italy, Byzantium, the Rus', Greenland.
+  - Why Acadia: Americans will want to play as themselves.
 - **Civ details so far:**
   - **The Britons:** sub-Roman Britain, Roman-influenced Brythonic (Welsh, Cornish, Breton, and the classical Celts of England). Capital: Caerleon.
-  - **Francia:** the Frankish kingdom and its dynasties, including West, East and Middle Francia. Capital: Aachen.
+  - **The Franks** (renamed from Francia, to make the Lotharingian and Capetian connection clear): the Frankish kingdom and its dynasties, including West, East and Middle Francia. Capital: Aachen.
   - **Andegavia (Angevin):** a nation with a combined Anglo-French culture developed over centuries, a parallel to 18th–19th-century Britain and France. Real roots: the Anglo-Norman language, and Law French in English courts. Capital: Paris.
   - **The Netherlands:** grows out of the medieval and Renaissance Burgundians; named for the Low Countries because that's the culture that became nationally dominant. Look: somewhere between 17th-century Amsterdam and 19th-century Brussels. Capital: Brussels.
   - **Greenland:** Norse Greenland, including Vinland: "what if the Greenlandic golden age kept going." Consider a Norse–Inuit blended culture.
   - **Prussia:** the Baltic Prussians; the Northern Crusades never destroyed them. A Baltic people, not German Prussia. (No Lithuania.)
   - **Bavaria:** home of the Illuminati and Neuschwanstein; chosen over "the Germans" or Austria.
-  - **Acadia:** the America-equivalent (or Columbia if Greenland holds that land); name still open, Orleans also a possibility.
+  - **Acadia:** the America-equivalent; name still open (Orleans and Columbia also possibilities).
+  - **The Papal States:** confirmed (over the Holy See); in the designer's head, also includes Naples (historically a papal fief for centuries).
   - **Antillea:** survivors of the Western Roman Empire who end up in the pre-Columbian Caribbean; may or may not survive the colonial era. Considerations: timing (Rome fell in 476, before the Breach, unless the Breach carried them); avoid a colonial story by making them refugees absorbed into a blended culture. Named after Antillia, the medieval legend of refugees who fled Iberia across the Atlantic to an island of Seven Cities (the Antilles are named after it).
 
 ### Resource: Mana
