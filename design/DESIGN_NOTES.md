@@ -117,12 +117,12 @@ Alternating fun and slog:
   - **The Franks** (renamed from Francia, to make the Lotharingian and Capetian connection clear): the Frankish kingdom and its dynasties, including West, East and Middle Francia. Capital: Aachen.
   - **Andegavia (Angevin):** a nation with a combined Anglo-French culture developed over centuries, a parallel to 18th–19th-century Britain and France. Real roots: the Anglo-Norman language, and Law French in English courts. Capital: Paris.
   - **The Netherlands:** grows out of the medieval and Renaissance Burgundians; named for the Low Countries because that's the culture that became nationally dominant. Look: somewhere between 17th-century Amsterdam and 19th-century Brussels. Capital: Brussels.
-  - **Greenland:** Norse Greenland, including Vinland: "what if the Greenlandic golden age kept going." Consider a Norse–Inuit blended culture.
+  - *(Pulled)* **Greenland:** Norse Greenland, including Vinland: "what if the Greenlandic golden age kept going." Consider a Norse–Inuit blended culture.
   - **Prussia:** the Baltic Prussians; the Northern Crusades never destroyed them. A Baltic people, not German Prussia. (No Lithuania.)
   - **Bavaria:** home of the Illuminati and Neuschwanstein; chosen over "the Germans" or Austria.
   - **Acadia:** the America-equivalent; name still open (Orleans and Columbia also possibilities).
   - **The Papal States:** confirmed (over the Holy See); in the designer's head, also includes Naples (historically a papal fief for centuries).
-  - **Antillea:** survivors of the Western Roman Empire who end up in the pre-Columbian Caribbean; may or may not survive the colonial era. Considerations: timing (Rome fell in 476, before the Breach, unless the Breach carried them); avoid a colonial story by making them refugees absorbed into a blended culture. Named after Antillia, the medieval legend of refugees who fled Iberia across the Atlantic to an island of Seven Cities (the Antilles are named after it).
+  - *(Pulled)* **Antillea:** survivors of the Western Roman Empire who end up in the pre-Columbian Caribbean; may or may not survive the colonial era. Considerations: timing (Rome fell in 476, before the Breach, unless the Breach carried them); avoid a colonial story by making them refugees absorbed into a blended culture. Named after Antillia, the medieval legend of refugees who fled Iberia across the Atlantic to an island of Seven Cities (the Antilles are named after it).
 
 ### Resource: Mana
 - **One magic resource: Mana.**
