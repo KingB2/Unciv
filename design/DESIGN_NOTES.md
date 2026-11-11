@@ -109,8 +109,9 @@ Alternating fun and slog:
 - **Reference: Civ VI's roster by era** (all 50 civs, sorted by each civ's original leader): Ancient 5, Classical 8, Medieval 16, Early modern 10, 1700–1945: 11, post-1945: 0. Mapped onto our eras (37 post-500 civs): Era 1 ~11%, Era 2 ~32%, Era 3 ~27%, Era 4 ~30%, Era 5 0%.
 - **Both games averaged:** Era 1 ~13%, Era 2 ~29%, Era 3 ~25%, Era 4 ~32%, Era 5 ~0%.
 - Rough target for a ~16–20 civ list: Era 1: 2–3, Era 2: 5–6, Era 3: 4–5, Era 4: 5–6, Era 5: 0–1 (a natural slot for invented or alt-history nations).
-- **Civ list (in progress, 27, needs trimming):** Mali, Greenland, Arabia, China, the Rus', Japan, the Mongols, the Ottomans, Spain, Bavaria, India, Romania, Ethiopia, the Haudenosaunee, the Inca, the Muisca, Byzantium, Hawaii, Acadia, Tibet, Italy, Jerusalem, the Paiute, Prussia, the Netherlands, Andegavia, Antillea.
-  - Not on this list but discussed earlier: the Britons, Francia, Poland.
+- **Civ list (22, first pass done; do a second pass later):** the Britons, Francia, Andegavia, the Netherlands, Bavaria, Prussia, Spain, the Papal States / Holy See, Byzantium, the Rus', Arabia, Mali, Ethiopia, India, China, Japan, the Mongols, Hawaii, Greenland, Acadia, the Haudenosaunee, the Muisca.
+  - **Pulled:** Jerusalem, the Paiute, Romania, Tibet, the Inca, the Ottomans, Antillea, Poland, Italy (replaced by the Papal States / Holy See).
+  - Why Acadia and Greenland: Americans will want to play as themselves (Acadia); Greenland is the only Norse nation and also another Native American nation (Norse–Inuit).
 - **Civ details so far:**
   - **The Britons:** sub-Roman Britain, Roman-influenced Brythonic (Welsh, Cornish, Breton, and the classical Celts of England). Capital: Caerleon.
   - **Francia:** the Frankish kingdom and its dynasties, including West, East and Middle Francia. Capital: Aachen.
