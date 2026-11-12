@@ -166,6 +166,8 @@ Alternating fun and slog:
 ### Spells
 - **Summon Storm:** summon a natural disaster (a storm) that damages anything within it.
   - Open: does it drift? Can it hurt your own side? Can rivals tell it was you? Does it leave anything behind?
+- **Houdini (signature): the Escape.** Within a certain radius, all his units gain an extra turn of movement (but can't attack) and ignore zone of control.
+  - Open: radius around what (Houdini as a unit on the map? a city?)? Passive aura or an activated spell that costs Mana? Does "can't attack" also block pillaging and capturing?
 - **Principle: spells change with context.** How a spell behaves depends on who you're playing, the era, and your techs and civics. (E.g., an early storm might be wild; later techs or civics could let you steer or disguise it.)
 
 ### Cults
