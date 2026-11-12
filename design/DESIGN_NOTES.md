@@ -20,7 +20,7 @@ A historical 4X where you rule a **wizard nation**. In the Dark Ages, a hole tor
 Alternating fun and slog:
 1. ~~Leaders~~ (done: 16)
 2. **Spells** (fun): signature spells for a few leaders, then work out the general rules of spellcasting from them
-3. **Civs** (slog): who's playable, and each civ's earthly identity (land, buildings, unique units)
+3. ~~Civ list~~ (done: 20). Civ uniques still to do: each civ's earthly identity (land, buildings, unique units)
 4. **Cults** (fun): what each cult does, per era
 5. **The core loop** (slog): where mana comes from, the Veil, how you win
 6. **Era changes**: what happens at each transition
@@ -267,6 +267,15 @@ Alternating fun and slog:
 - **Story spine:** wonder → industry → trying to replace the thing that changed everything.
 
 ---
+
+## Music (early ideas)
+- Civ themes drawn from real traditional music (designer is a musician; anthropology interest):
+  - **The Britons:** *Pais Dinogad* (Old Welsh lullaby, 7th–8th c., in the margins of *Y Gododdin*; only the words survive, so the melody would be composed)
+  - **Acadia:** *Simple Gifts* (Shaker, 1848) / *La danse de Mardi Gras* (Cajun)
+  - **Andegavia:** *La roy anglois* / the *Agincourt Carol* (15th c.)
+  - **The Franks:** *Rolandskvadet* (Norwegian medieval ballad about Roland)
+- Idea: like Civ VI, one theme per civ, re-arranged for each of the five eras.
+- Watch: the old tunes are public domain, but specific modern arrangements and recordings aren't (e.g., Copland's *Simple Gifts* in *Appalachian Spring*).
 
 ## Neighbors on the Shelf
 - **Age of Wonders** (esp. AoW4): closest relative. Shares wizard rulers, mana, spells, heroes, monster lairs, and magic "tomes" researched over time. Differs: pure invented fantasy (no real history, no historical leaders, no Breach-to-present eras), tactical battle maps. Our darkness/Veil layer is our own.
