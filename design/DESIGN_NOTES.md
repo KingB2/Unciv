@@ -164,10 +164,15 @@ Alternating fun and slog:
 - Care with gods of living religions.
 
 ### Spells
+- **How casting works (like launching a nuke, but weaker and with varied powers):**
+  - Spells are cast within a **casting range** of a city (e.g., 6 tiles). The range **can be expanded**.
+  - Within that range, you **target one tile**.
+  - Each spell then has **its own radius** of effect around that tile.
 - **Summon Storm:** summon a natural disaster (a storm) that damages anything within it.
   - Open: does it drift? Can it hurt your own side? Can rivals tell it was you? Does it leave anything behind?
 - **Houdini (signature): the Escape.** Within a certain radius, all his units gain an extra turn of movement (but can't attack) and ignore zone of control.
-  - Open: radius around what (Houdini as a unit on the map? a city?)? Passive aura or an activated spell that costs Mana? Does "can't attack" also block pillaging and capturing?
+  - Cast on a target tile within casting range; affects units within the spell's radius.
+  - Open: does "can't attack" also block pillaging and capturing?
 - **Principle: spells change with context.** How a spell behaves depends on who you're playing, the era, and your techs and civics. (E.g., an early storm might be wild; later techs or civics could let you steer or disguise it.)
 
 ### Cults
@@ -276,6 +281,8 @@ Alternating fun and slog:
   - **Acadia:** *Simple Gifts* (Shaker, 1848) / *La danse de Mardi Gras* (Cajun)
   - **Andegavia:** *Le Roy Engloys* (Bayeux Manuscript) / the *Agincourt Carol* (15th c.)
   - **The Franks:** *Rolandskvadet* (Norwegian medieval ballad about Roland)
+  - **Prussia:** *Pirs man is Danskos* / *Dāncau nūs angzdrīkikis* / *Zeminnika kweitākedi* (check: likely modern Old Prussian revival songs, so probably under copyright). Public-domain alternative to set to music: the Basel Epigram (1369), the oldest Old Prussian text, a drinking toast.
+  - **The Haudenosaunee:** *Ho, Ho, Watanay* / *Waho; hiya ne* ("Just a Song"). Care: only use social songs, never ceremonial ones; ideally check with Haudenosaunee singers.
 - Idea: like Civ VI, one theme per civ, re-arranged for each of the five eras.
 - Watch: the old tunes are public domain, but specific modern arrangements and recordings aren't (e.g., Copland's *Simple Gifts* in *Appalachian Spring*).
 
