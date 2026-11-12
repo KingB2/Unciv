@@ -118,6 +118,7 @@ Alternating fun and slog:
   - **Andegavia (Angevin):** a nation with a combined Anglo-French culture developed over centuries, a parallel to 18th–19th-century Britain and France. Real roots: the Anglo-Norman language, and Law French in English courts. Capital: Paris.
   - **The Netherlands:** grows out of the medieval and Renaissance Burgundians; named for the Low Countries because that's the culture that became nationally dominant. Look: somewhere between 17th-century Amsterdam and 19th-century Brussels. Capital: Brussels.
   - *(Pulled)* **Greenland:** Norse Greenland, including Vinland: "what if the Greenlandic golden age kept going." Consider a Norse–Inuit blended culture.
+  - **The Netherlands:** *La Mourisque* (Tielman Susato, *Danserye*, Antwerp, 1551) / *Sur la route de Dijon* (French folk song; Dijon was Burgundy's capital)
   - **Prussia:** the Baltic Prussians; the Northern Crusades never destroyed them. A Baltic people, not German Prussia. (No Lithuania.)
   - **Bavaria:** home of the Illuminati and Neuschwanstein; chosen over "the Germans" or Austria.
   - **Acadia:** the America-equivalent; name still open (Orleans and Columbia also possibilities).
@@ -173,10 +174,9 @@ Alternating fun and slog:
 - **Houdini (signature): the Escape.** Within a certain radius, all his units gain an extra turn of movement (but can't attack) and ignore zone of control.
   - Cast on a target tile within casting range; affects units within the spell's radius.
   - Open: does "can't attack" also block pillaging and capturing?
-- **Lin Moniang (signature options, maybe both):**
-  - **Calm the Storm:** immediately end a hurricane in your territory.
-  - **Walk the Waves:** select an area of units; they can move and attack on water tiles as if they were land.
-  - Open: one or both? For Walk the Waves, how long does it last, and what happens to units still on water when it ends?
+- **Lin Moniang (signature): Walk the Waves.** Select an area of units; they can move and attack on water tiles as if they were land. When the spell ends, units on water automatically embark.
+  - Open: how long does it last?
+  - Not chosen (could return as a passive or second spell): Calm the Storm, immediately ending a hurricane in your territory.
 - **Principle: spells change with context.** How a spell behaves depends on who you're playing, the era, and your techs and civics. (E.g., an early storm might be wild; later techs or civics could let you steer or disguise it.)
 
 ### Cults
