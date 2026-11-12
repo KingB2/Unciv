@@ -173,6 +173,10 @@ Alternating fun and slog:
 - **Houdini (signature): the Escape.** Within a certain radius, all his units gain an extra turn of movement (but can't attack) and ignore zone of control.
   - Cast on a target tile within casting range; affects units within the spell's radius.
   - Open: does "can't attack" also block pillaging and capturing?
+- **Lin Moniang (signature options, maybe both):**
+  - **Calm the Storm:** immediately end a hurricane in your territory.
+  - **Walk the Waves:** select an area of units; they can move and attack on water tiles as if they were land.
+  - Open: one or both? For Walk the Waves, how long does it last, and what happens to units still on water when it ends?
 - **Principle: spells change with context.** How a spell behaves depends on who you're playing, the era, and your techs and civics. (E.g., an early storm might be wild; later techs or civics could let you steer or disguise it.)
 
 ### Cults
