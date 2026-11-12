@@ -272,7 +272,7 @@ Alternating fun and slog:
 - Civ themes drawn from real traditional music (designer is a musician; anthropology interest):
   - **The Britons:** *Pais Dinogad* (Old Welsh lullaby, 7th–8th c., in the margins of *Y Gododdin*; only the words survive, so the melody would be composed)
   - **Acadia:** *Simple Gifts* (Shaker, 1848) / *La danse de Mardi Gras* (Cajun)
-  - **Andegavia:** *La roy anglois* / the *Agincourt Carol* (15th c.)
+  - **Andegavia:** *Le Roy Engloys* (Bayeux Manuscript) / the *Agincourt Carol* (15th c.)
   - **The Franks:** *Rolandskvadet* (Norwegian medieval ballad about Roland)
 - Idea: like Civ VI, one theme per civ, re-arranged for each of the five eras.
 - Watch: the old tunes are public domain, but specific modern arrangements and recordings aren't (e.g., Copland's *Simple Gifts* in *Appalachian Spring*).
