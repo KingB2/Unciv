@@ -111,9 +111,10 @@ Alternating fun and slog:
 - Rough target for a ~16–20 civ list: Era 1: 2–3, Era 2: 5–6, Era 3: 4–5, Era 4: 5–6, Era 5: 0–1 (a natural slot for invented or alt-history nations).
 - **Process:** name every civ's three uniques first (breadth), then design abilities later, once the core loop (Mana, Veil, casting) exists to design against.
 - **Civ uniques (structure):** every civ gets **one unique piece of infrastructure, one unique unit, and one unique magic unit.**
-  - **A civ's magic unit is a unique Adventurer type.** Adventurers riff on fantasy adventuring parties (D&D-style classes) mixed with folklore, and it's all otherworldly. E.g., the Franks' Paladin, the Britons' Bard.
+  - **Magic is a unit domain**, alongside land, naval and air. Adventurers are magic units, but not all magic units are Adventurers. A civ's unique magic unit can be any kind of magic unit (the Franks' happens to be an Adventurer, the Paladin).
+  - Adventurers riff on fantasy adventuring parties (D&D-style classes) mixed with folklore; it's all otherworldly.
   - Open: is there also a civ ability? Are uniques tied to their historical era, or can they be speculative (magical alt-history)?
-  - Resolved: leaders carry personal spells; civs carry their culture's magic through their unique Adventurer.
+  - Resolved: leaders carry personal spells; civs carry their culture's magic through their unique magic unit.
 - **Civ list (20):** the Britons, the Franks, Andegavia, the Netherlands, Bavaria, Prussia, Spain, al-Andalus, the Papal States, Arabia, Mali, Ethiopia, India, China, Japan, the Mongols, Hawaii, Acadia, the Haudenosaunee, the Muisca.
   - **Pulled:** Jerusalem, the Paiute, Romania, Tibet, the Inca, the Ottomans, Antillea, Poland, Italy, Byzantium, the Rus', Greenland.
   - Why Acadia: Americans will want to play as themselves.
@@ -121,7 +122,7 @@ Alternating fun and slog:
   - **The Britons:** sub-Roman Britain, Roman-influenced Brythonic (Welsh, Cornish, Breton, and the classical Celts of England). Capital: Caerleon.
     - **Infrastructure: the Caer** (improvement; Welsh for a fort or fortified enclosure, as in Caerleon).
     - **Unit: the Breton** (unique settler; the real migration of Britons to Armorica, which became Brittany, in the 5th–6th centuries).
-    - **Magic unit (Adventurer): the Bard.**
+    - **Magic unit: the Bard.**
     - Considered: Gododdin Riders (rejected: the battle was a famous defeat); the Picts (current scholarship leans toward Pictish being a Brittonic language, though they were a separate people and often the Britons' enemies).
   - **The Franks** (renamed from Francia, to make the Lotharingian and Capetian connection clear): the Frankish kingdom and its dynasties, including West, East and Middle Francia. Capital: Aachen.
     - **Infrastructure: the Scriptorium** (Carolingian revival of learning). (Pfalz rejected: overlaps with the Caer.)
