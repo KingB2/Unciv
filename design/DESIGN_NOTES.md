@@ -279,6 +279,12 @@ Alternating fun and slog:
 
 ---
 
+## Languages (open questions)
+- **The Netherlands / Burgundy:** a French-speaking Burgundian court ruling a mostly Dutch-speaking population (like Belgium today). Would the state still call itself Burgundy? Precedent: Brandenburg's realm took the name "Prussia" from a peripheral territory because that's where the royal title was. Language likely bilingual: Dutch (Flemish) majority, French court and south (Walloon).
+- **Andegavia:** probably not one merged language; more likely French as the prestige language and English as the vernacular, with English becoming even more French than it really is. Real models: Anglo-Norman, Law French, and the Norman languages still spoken in Jersey and Guernsey.
+- **Prussia:** a Baltic language with East German influence. Real evidence: the 16th-century Old Prussian catechisms already show heavy German borrowing.
+- Where language shows up in the game: city name lists, unit names, possibly leaders speaking their own language (as in Civ VI).
+
 ## Music (early ideas)
 - Civ themes drawn from real traditional music (designer is a musician; anthropology interest):
   - **The Britons:** *Pais Dinogad* (Old Welsh lullaby, 7th–8th c., in the margins of *Y Gododdin*; only the words survive, so the melody would be composed)
