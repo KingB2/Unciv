@@ -129,6 +129,7 @@ Alternating fun and slog:
     - **Unit: the Scara** (Charlemagne's elite cavalry, his personal bodyguard).
     - **Magic unit (Adventurer): the Paladin.**
   - **Andegavia (Angevin):** a nation with a combined Anglo-French culture developed over centuries, a parallel to 18th–19th-century Britain and France. Real roots: the Anglo-Norman language, and Law French in English courts. Capital: Paris.
+    - Real modern Anglo-French roots to draw on: the 1940 Declaration of Union (Britain offered France a full political union with shared citizenship); Guy Mollet's 1956 proposal of union; Concorde; the Channel Tunnel; the New Hebrides Condominium (1906–1980); joint military projects (the Lancaster House treaties' Combined Joint Expeditionary Force, Storm Shadow/SCALP, the Jaguar); the Channel Islands.
   - **The Netherlands:** grows out of the medieval and Renaissance Burgundians; named for the Low Countries because that's the culture that became nationally dominant. Look: somewhere between 17th-century Amsterdam and 19th-century Brussels. Capital: Brussels.
   - *(Pulled)* **Greenland:** Norse Greenland, including Vinland: "what if the Greenlandic golden age kept going." Consider a Norse–Inuit blended culture.
   - **The Netherlands:** *La Mourisque* (Tielman Susato, *Danserye*, Antwerp, 1551) / *Sur la route de Dijon* (French folk song; Dijon was Burgundy's capital)
