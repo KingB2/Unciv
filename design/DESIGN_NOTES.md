@@ -109,6 +109,7 @@ Alternating fun and slog:
 - **Reference: Civ VI's roster by era** (all 50 civs, sorted by each civ's original leader): Ancient 5, Classical 8, Medieval 16, Early modern 10, 1700–1945: 11, post-1945: 0. Mapped onto our eras (37 post-500 civs): Era 1 ~11%, Era 2 ~32%, Era 3 ~27%, Era 4 ~30%, Era 5 0%.
 - **Both games averaged:** Era 1 ~13%, Era 2 ~29%, Era 3 ~25%, Era 4 ~32%, Era 5 ~0%.
 - Rough target for a ~16–20 civ list: Era 1: 2–3, Era 2: 5–6, Era 3: 4–5, Era 4: 5–6, Era 5: 0–1 (a natural slot for invented or alt-history nations).
+- **Process:** name every civ's three uniques first (breadth), then design abilities later, once the core loop (Mana, Veil, casting) exists to design against.
 - **Civ uniques (structure):** every civ gets **one unique piece of infrastructure, one unique unit, and one unique magic unit.**
   - Open: is there also a civ ability? Are uniques tied to their historical era, or can they be speculative (magical alt-history)?
   - Note: a civ magic unit softens the "civ = earthly, leader = magic" split. Possible refinement: leaders carry personal spells; civs carry their culture's magical traditions.
