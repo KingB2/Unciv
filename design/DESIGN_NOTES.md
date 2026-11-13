@@ -117,6 +117,10 @@ Alternating fun and slog:
   - Why Acadia: Americans will want to play as themselves.
 - **Civ details so far:**
   - **The Britons:** sub-Roman Britain, Roman-influenced Brythonic (Welsh, Cornish, Breton, and the classical Celts of England). Capital: Caerleon.
+    - **Infrastructure: the Caer** (improvement; Welsh for a fort or fortified enclosure, as in Caerleon).
+    - **Unit: the Breton** (unique settler; the real migration of Britons to Armorica, which became Brittany, in the 5th–6th centuries).
+    - **Magic unit: the Bard.**
+    - Considered: Gododdin Riders (rejected: the battle was a famous defeat); the Picts (current scholarship leans toward Pictish being a Brittonic language, though they were a separate people and often the Britons' enemies).
   - **The Franks** (renamed from Francia, to make the Lotharingian and Capetian connection clear): the Frankish kingdom and its dynasties, including West, East and Middle Francia. Capital: Aachen.
   - **Andegavia (Angevin):** a nation with a combined Anglo-French culture developed over centuries, a parallel to 18th–19th-century Britain and France. Real roots: the Anglo-Norman language, and Law French in English courts. Capital: Paris.
   - **The Netherlands:** grows out of the medieval and Renaissance Burgundians; named for the Low Countries because that's the culture that became nationally dominant. Look: somewhere between 17th-century Amsterdam and 19th-century Brussels. Capital: Brussels.
