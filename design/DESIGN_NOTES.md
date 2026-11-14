@@ -135,7 +135,7 @@ Alternating fun and slog:
     - Real modern Anglo-French roots to draw on: the 1940 Declaration of Union (Britain offered France a full political union with shared citizenship); Guy Mollet's 1956 proposal of union; Concorde; the Channel Tunnel; the New Hebrides Condominium (1906–1980); joint military projects (the Lancaster House treaties' Combined Joint Expeditionary Force, Storm Shadow/SCALP, the Jaguar); the Channel Islands.
   - **Burgundy** (renamed from the Netherlands): grows out of the medieval and Renaissance Burgundians, with the Low Countries as its dominant culture. Look: somewhere between 17th-century Amsterdam and 19th-century Brussels. Capital: Brussels.
     - **Infrastructure: the Heksenwaag** (Witches' Weigh House): a magical money farm. Weigh houses (*waag*) were central to Dutch trade; Oudewater's real Heksenwaag weighed accused witches and issued certificates clearing them.
-    - **Unit:** a naval trade-war ship in the VOC mould (options: East Indiaman, Retourschip, Fluyt).
+    - **Unit: the Fluyt** (the cheap, efficient Dutch cargo ship of the 1590s; primarily for trading).
     - **Magic unit: the Golden Fleece Knight** (Order of the Golden Fleece, founded in Bruges in 1430; the fleece is also an alchemical symbol).
   - *(Pulled)* **Greenland:** Norse Greenland, including Vinland: "what if the Greenlandic golden age kept going." Consider a Norse–Inuit blended culture.
   - **Burgundy:** *La Mourisque* (Tielman Susato, *Danserye*, Antwerp, 1551) / *Sur la route de Dijon* (French folk song; Dijon was Burgundy's capital)
