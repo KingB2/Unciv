@@ -115,7 +115,7 @@ Alternating fun and slog:
   - Adventurers riff on fantasy adventuring parties (D&D-style classes) mixed with folklore; it's all otherworldly.
   - Open: is there also a civ ability? Are uniques tied to their historical era, or can they be speculative (magical alt-history)?
   - Resolved: leaders carry personal spells; civs carry their culture's magic through their unique magic unit.
-- **Civ list (20):** the Britons, the Franks, Andegavia, the Netherlands, Bavaria, Prussia, Spain, al-Andalus, the Papal States, Arabia, Mali, Ethiopia, India, China, Japan, the Mongols, Hawaii, Acadia, the Haudenosaunee, the Muisca.
+- **Civ list (20):** the Britons, the Franks, Andegavia, Burgundy, Bavaria, Prussia, Spain, al-Andalus, the Papal States, Arabia, Mali, Ethiopia, India, China, Japan, the Mongols, Hawaii, Acadia, the Haudenosaunee, the Muisca.
   - **Pulled:** Jerusalem, the Paiute, Romania, Tibet, the Inca, the Ottomans, Antillea, Poland, Italy, Byzantium, the Rus', Greenland.
   - Why Acadia: Americans will want to play as themselves.
 - **Civ details so far:**
@@ -133,9 +133,12 @@ Alternating fun and slog:
     - **Unit: the Marine** (a blend of the English Redcoat and the French colonial Troupes de la Marine).
     - **Magic unit: the Albatross**, an airship. (Albatross echoes: Coleridge's *Rime of the Ancient Mariner*, Baudelaire's *L'Albatros*, and Jules Verne's flying machine *Albatros* in *Robur the Conqueror*, 1886.)
     - Real modern Anglo-French roots to draw on: the 1940 Declaration of Union (Britain offered France a full political union with shared citizenship); Guy Mollet's 1956 proposal of union; Concorde; the Channel Tunnel; the New Hebrides Condominium (1906–1980); joint military projects (the Lancaster House treaties' Combined Joint Expeditionary Force, Storm Shadow/SCALP, the Jaguar); the Channel Islands.
-  - **The Netherlands:** grows out of the medieval and Renaissance Burgundians; named for the Low Countries because that's the culture that became nationally dominant. Look: somewhere between 17th-century Amsterdam and 19th-century Brussels. Capital: Brussels.
+  - **Burgundy** (renamed from the Netherlands): grows out of the medieval and Renaissance Burgundians, with the Low Countries as its dominant culture. Look: somewhere between 17th-century Amsterdam and 19th-century Brussels. Capital: Brussels.
+    - **Infrastructure: the Heksenwaag** (Witches' Weigh House): a magical money farm. Weigh houses (*waag*) were central to Dutch trade; Oudewater's real Heksenwaag weighed accused witches and issued certificates clearing them.
+    - **Unit:** a naval trade-war ship in the VOC mould (options: East Indiaman, Retourschip, Fluyt).
+    - **Magic unit: the Golden Fleece Knight** (Order of the Golden Fleece, founded in Bruges in 1430; the fleece is also an alchemical symbol).
   - *(Pulled)* **Greenland:** Norse Greenland, including Vinland: "what if the Greenlandic golden age kept going." Consider a Norse–Inuit blended culture.
-  - **The Netherlands:** *La Mourisque* (Tielman Susato, *Danserye*, Antwerp, 1551) / *Sur la route de Dijon* (French folk song; Dijon was Burgundy's capital)
+  - **Burgundy:** *La Mourisque* (Tielman Susato, *Danserye*, Antwerp, 1551) / *Sur la route de Dijon* (French folk song; Dijon was Burgundy's capital)
   - **Prussia:** the Baltic Prussians; the Northern Crusades never destroyed them. A Baltic people, not German Prussia. (No Lithuania.)
   - **Bavaria:** home of the Illuminati and Neuschwanstein; chosen over "the Germans" or Austria.
   - **Acadia:** the America-equivalent; name still open (Orleans and Columbia also possibilities).
