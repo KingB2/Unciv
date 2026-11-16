@@ -197,6 +197,7 @@ Alternating fun and slog:
 - **Lin Moniang (signature): Walk the Waves.** Select an area of units; they can move and attack on water tiles as if they were land. When the spell ends, units on water automatically embark.
   - Open: how long does it last?
   - Not chosen (could return as a passive or second spell): Calm the Storm, immediately ending a hurricane in your territory.
+  - Open: should Lin Moniang cross oceans from the start? Suggestion: give early ocean crossing to **Hawaii** (a civ trait, real Polynesian wayfinding) and give Lin a sea-protection passive instead, so Walk the Waves stays meaningful.
 - **Principle: spells change with context.** How a spell behaves depends on who you're playing, the era, and your techs and civics. (E.g., an early storm might be wild; later techs or civics could let you steer or disguise it.)
 
 ### Cults
@@ -314,7 +315,12 @@ Alternating fun and slog:
   - **Prussia:** *Pirs man is Danskos* / *Dāncau nūs angzdrīkikis* / *Zeminnika kweitākedi* (check: likely modern Old Prussian revival songs, so probably under copyright). Public-domain alternative to set to music: the Basel Epigram (1369), the oldest Old Prussian text, a drinking toast.
   - **The Haudenosaunee:** *Ho, Ho, Watanay* / *Waho; hiya ne* ("Just a Song"). Care: only use social songs, never ceremonial ones; ideally check with Haudenosaunee singers.
 - Idea: like Civ VI, one theme per civ, re-arranged for each of the five eras.
+- **Scope reality:** full per-civ, per-era scores (Civ V/VI style) are a professional-scale job. Smaller options: a shared score per era plus a short motif for each civ (leader and diplomacy screens); acoustic folk arrangements; start with a few civs and add more over time; collaborators.
 - Watch: the old tunes are public domain, but specific modern arrangements and recordings aren't (e.g., Copland's *Simple Gifts* in *Appalachian Spring*).
+
+## Production Realities
+- **Burnout is expected.** Plan for pauses: the notes hold everything, there's no deadline, work in small pieces, rotate between design, art and music.
+- **AI-written code and player reception:** some players object to any AI involvement. Mitigations: a human programmer reviews (ideally co-owns) the code; be transparent (all art, music and writing human-made; code AI-assisted and human-reviewed); build a community early (e.g., an itch.io devlog). Check current store disclosure rules at release time.
 
 ## Neighbors on the Shelf
 - **Age of Wonders** (esp. AoW4): closest relative. Shares wizard rulers, mana, spells, heroes, monster lairs, and magic "tomes" researched over time. Differs: pure invented fantasy (no real history, no historical leaders, no Breach-to-present eras), tactical battle maps. Our darkness/Veil layer is our own.
