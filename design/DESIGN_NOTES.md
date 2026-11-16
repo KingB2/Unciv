@@ -30,7 +30,10 @@ Alternating fun and slog:
 4. **Cults** (fun): what each cult does, per era
 5. **The core loop** (slog): where mana comes from, the Veil, how you win
 6. **Era changes**: what happens at each transition
-7. **First playable build** in Godot (a tiny one)
+7. **First playable build** in Godot (a tiny one), in steps:
+   - **Build 0 (the molar):** hex map, one city, a unit that moves, Veil tiles in the fog, a monster spawning. No civs or leaders yet; plain placeholder shapes.
+   - **Build 1:** 2 civs (suggested: the Britons and the Franks, both fully designed) and 2 leaders (suggested: Houdini and Tenskwatawa, to test casting and the darkness). One AI opponent.
+   - **Build 2:** 4 civs and 4 leaders on a small map (add Andegavia, Burgundy, Lin Moniang once naval/embarking exists).
 
 ---
 
