@@ -16,6 +16,12 @@ A historical 4X where you rule a **wizard nation**. In the Dark Ages, a hole tor
 
 ---
 
+## Future Additions (expansions, "if and when this is a real game")
+- **Everything cut stays on the table** for later. See the Cut lists under Leaders and Civs.
+- **New civ ideas:** split China and India along ethnic and territorial lines (e.g., the **Song**, distinct from a Qing-type civ; the **Tamils**); **Transylvania**; **Malta / the Knights Hospitaller**; **the Pueblo** (care: living communities); **the Italic Republic** (concept TBD); **Tibet** (makes more sense once China is split).
+- **New leader ideas:** **Ivar the Boneless**.
+- Note: dynasty names (Song, Qing) imply a time period in a game without civ switching; ethnic or territorial names (the Tamils, the Manchu) fit the "nations" rule more cleanly.
+
 ## Roadmap (what to design next)
 Alternating fun and slog:
 1. ~~Leaders~~ (done: 16)
@@ -141,6 +147,9 @@ Alternating fun and slog:
   - **Burgundy:** *La Mourisque* (Tielman Susato, *Danserye*, Antwerp, 1551) / *Sur la route de Dijon* (French folk song; Dijon was Burgundy's capital)
   - **Prussia:** the Baltic Prussians; the Northern Crusades never destroyed them. A Baltic people, not German Prussia. (No Lithuania.)
   - **Bavaria:** home of the Illuminati and Neuschwanstein; chosen over "the Germans" or Austria.
+    - **Infrastructure: the Märchenschloss** (fairy-tale castle).
+    - **Unit (leaning): the Hartschier** (the Bavarian royal bodyguard, from Italian *arciere*, "archer"; served until 1918). With the Märchenschloss: a cohesive turtle-and-culture civ. Watch overlap with the Franks' Scara, also a royal bodyguard.
+    - **Magic unit:** undecided. Options: Perchten (Alpine masked spirit-chasers; defensive, fits turtling), Wolpertinger, Illuminatus (may belong to a cult instead).
   - **Acadia:** the America-equivalent; name still open (Orleans and Columbia also possibilities).
   - **The Papal States:** confirmed (over the Holy See); in the designer's head, also includes Naples (historically a papal fief for centuries).
   - *(Pulled)* **Antillea:** survivors of the Western Roman Empire who end up in the pre-Columbian Caribbean; may or may not survive the colonial era. Considerations: timing (Rome fell in 476, before the Breach, unless the Breach carried them); avoid a colonial story by making them refugees absorbed into a blended culture. Named after Antillia, the medieval legend of refugees who fled Iberia across the Atlantic to an island of Seven Cities (the Antilles are named after it).
