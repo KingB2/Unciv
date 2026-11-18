@@ -19,7 +19,7 @@ A historical 4X where you rule a **wizard nation**. In the Dark Ages, a hole tor
 ## Future Additions (expansions, "if and when this is a real game")
 - **Everything cut stays on the table** for later. See the Cut lists under Leaders and Civs.
 - **New civ ideas:** split China and India along ethnic and territorial lines (e.g., the **Song**, distinct from a Qing-type civ; the **Tamils**); **Transylvania**; **Malta / the Knights Hospitaller**; **the Pueblo** (care: living communities); **the Italic Republic** (fictional: built out of the Italic League of 1454–55, the alliance of Milan, Venice, Florence, the Papal States and Naples; would overlap with the Papal States civ); **Tibet** (makes more sense once China is split).
-- **New leader ideas:** **Ivar the Boneless**; **Hong Xiuquan** (Taiping Heavenly Kingdom; visions after a fever in 1837 convinced him he was Jesus's younger brother. Care: the Taiping war was one of the deadliest in history. Parallels Tenskwatawa, so make their kits distinct).
+- **New leader ideas:** **Jan Hus** ("needs to be a leader"; main roster or expansion TBD. Prophecy legend: "today you roast a goose, but in a hundred years a swan will come that you cannot burn"); **Ivar the Boneless**; **Hong Xiuquan** (Taiping Heavenly Kingdom; visions after a fever in 1837 convinced him he was Jesus's younger brother. Care: the Taiping war was one of the deadliest in history. Parallels Tenskwatawa, so make their kits distinct).
 - Note: dynasty names (Song, Qing) imply a time period in a game without civ switching; ethnic or territorial names (the Tamils, the Manchu) fit the "nations" rule more cleanly.
 
 ## Roadmap (what to design next)
